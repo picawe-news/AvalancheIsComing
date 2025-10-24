@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren',de,impact,#4287f5,#638ed4,3,0.2089751189887505
 'Lawine',de,hazard,#4287f5,#022f78,3,0.1961664174551531
 'Neuschnee',de,causes,#a89216,#c4b03b,3,0.1894772761601365
-'Erwärmung',de,causes,#a89216,#c4b03c,3,0.1894772761601365
 'Skifahrer',de,causes,#a89216,#c4b03d,3,0.1894772761601365
+'Erwärmung',de,causes,#a89216,#c4b03c,3,0.1841903229179342
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.182124848364244
 'Lockerschneelawine',de,hazard,#4287f5,#023f78,2,0.182124848364244
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,3,0.1801515373118979
-'Lawinenschaufel',de,mitigation,#9e3215,#d64418,2,0.17925144731189793
+'Lawinenschaufel',de,mitigation,#9e3215,#d64418,2,0.1792514473118979
 'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,2,0.1792514473118979
