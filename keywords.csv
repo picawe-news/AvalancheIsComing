@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Neuschnee',de,causes,#a89216,#c4b03b,3,0.211506224736116
 'Schneemassen',de,impact,#4287f5,#638ed7,3,0.2089751189887505
 'Verschüttete',de,impact,#4287f5,#638ed5,3,0.2089751189887505
 'Erfroren',de,impact,#4287f5,#638ed4,3,0.2089751189887505
 'Lawine',de,hazard,#4287f5,#022f78,3,0.1961664174551531
-'Neuschnee',de,causes,#a89216,#c4b03b,3,0.1894772761601365
 'Skifahrer',de,causes,#a89216,#c4b03d,3,0.1894772761601365
 'Erwärmung',de,causes,#a89216,#c4b03c,3,0.1841903229179342
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.182124848364244
