@@ -1,3 +1,9 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+www.stern.de,-0.1759722222222222,0.09606815032138818,0.30277777777777776,0.3496470883902125,4.0
+www.sueddeutsche.de,-0.4645833333333333,0.42131779045698453,0.0625,0.08838834764831845,2.0
+orf.at,0.0,1.0,0.0,1.0,1.0
 tirol.orf.at,0.0,1.0,0.0,1.0,1.0
+www.bild.de,0.0,1.0,0.0,1.0,1.0
+www.faz.net,0.0,1.0,0.0,1.0,1.0
 www.tagesspiegel.de,0.0,1.0,0.0,1.0,1.0
+www.zeit.de,0.0,1.0,0.0,1.0,1.0
