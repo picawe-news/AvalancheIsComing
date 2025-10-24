@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Neuschnee',de,causes,#a89216,#c4b03b,3,0.211506224736116
 'Schneemassen',de,impact,#4287f5,#638ed7,3,0.2089751189887505
 'Skifahrer',de,causes,#a89216,#c4b03d,3,0.1894772761601365
 'Erwärmung',de,causes,#a89216,#c4b03c,3,0.1841903229179342
 'Lockerschneelawine',de,hazard,#4287f5,#023f78,2,0.182124848364244
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.182124848364244
+'Neuschnee',de,causes,#a89216,#c4b03b,3,0.1802308310256986
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,3,0.1801515373118979
 'Lawinenschaufel',de,mitigation,#9e3215,#d64418,2,0.1792514473118979
 'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,2,0.1792514473118979
 'Erfroren',de,impact,#4287f5,#638ed4,3,0.1779288811404379
 'Verschüttete',de,impact,#4287f5,#638ed5,1,0.1776293461404379
-'Lawine',de,hazard,#4287f5,#022f78,3,0.17169212983688012
+'Lawine',de,hazard,#4287f5,#022f78,3,0.1716921298368801
