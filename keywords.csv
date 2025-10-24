@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,3,0.1801515373118979
 'Lawinenschaufel',de,mitigation,#9e3215,#d64418,2,0.1792514473118979
 'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,2,0.1792514473118979
-'Erwärmung',de,causes,#a89216,#c4b03c,3,0.17905840712638924
+'Erwärmung',de,causes,#a89216,#c4b03c,3,0.1790584071263892
 'Erfroren',de,impact,#4287f5,#638ed4,3,0.1779288811404379
 'Verschüttete',de,impact,#4287f5,#638ed5,1,0.1776293461404379
-'Lawine',de,hazard,#4287f5,#022f78,3,0.1716921298368801
 'Skifahrer',de,causes,#a89216,#c4b03d,3,0.162106284736116
+'Lawine',de,hazard,#4287f5,#022f78,3,0.14773898536134808
