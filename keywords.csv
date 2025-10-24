@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,mitigation,#9e3215,#d64418,3,0.2108840556610564
-'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,3,0.2108840556610564
 'Schneemassen',de,impact,#4287f5,#638ed7,3,0.2089751189887505
 'Verschüttete',de,impact,#4287f5,#638ed5,3,0.2089751189887505
 'Erfroren',de,impact,#4287f5,#638ed4,3,0.2089751189887505
@@ -10,4 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer',de,causes,#a89216,#c4b03d,3,0.1894772761601365
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.182124848364244
 'Lockerschneelawine',de,hazard,#4287f5,#023f78,2,0.182124848364244
-'Lawinenverbauung',de,mitigation,#9e3215,#d66118,3,0.18015153731189792
+'Lawinenverbauung',de,mitigation,#9e3215,#d66118,3,0.1801515373118979
+'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,2,0.17925144731189793
