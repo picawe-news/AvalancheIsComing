@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,causes,#a89216,#c4b03c,3,0.1790584071263892
 'Erfroren Lawine',de,impact,#4287f5,#638ed4,3,0.1779288811404379
 'Schneemassen',de,impact,#4287f5,#638ed7,2,0.1776296161404379
-'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.1776293461404379
 'Skifahrer Lawine',de,causes,#a89216,#c4b03d,3,0.162106284736116
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.1548061211096074
+'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.15128497421937223
 'Lawine',de,hazard,#4287f5,#022f78,3,0.147738985361348
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,2,0.1310596522078462
