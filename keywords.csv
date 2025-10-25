@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lockerschneelawine',de,hazard,#4287f5,#023f78,2,0.182124848364244
 'Schneemassen',de,impact,#4287f5,#638ed7,2,0.1776296161404379
 'Skifahrer Lawine',de,causes,#a89216,#c4b03d,3,0.162106284736116
+'Lockerschneelawine',de,hazard,#4287f5,#023f78,1,0.1548061211096074
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.1548061211096074
 'Neuschnee',de,causes,#a89216,#c4b03b,2,0.1531967013718438
 'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,1,0.1523637302151132
