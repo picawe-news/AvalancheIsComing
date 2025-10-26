@@ -8,6 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,causes,#a89216,#c4b03d,1,0.1377903420256986
 'Schneebrettlawine',de,hazard,#4287f5,#022f68,1,0.1315852029431662
 'Lockerschneelawine',de,hazard,#4287f5,#023f78,1,0.1315852029431662
-'Lawinenverbauung',de,mitigation,#9e3215,#d66118,2,0.1310596522078462
 'Neuschnee',de,causes,#a89216,#c4b03b,1,0.1302176911660672
 'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.1288922580864663
+'Lawinenverbauung',de,mitigation,#9e3215,#d66118,1,0.11140079437666928
