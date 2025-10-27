@@ -1,6 +1,15 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Ab…,Ab…,ORG,0.0,0.0,de,1
+Str…,Str…,ORG,0.0,0.0,de,1
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1
+DWD,DWD,ORG,0.0,0.0,de,1
+Ac…,Ac…,ORG,1.0,0.0,de,1
 Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1
+Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1
+CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1
 Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1
 University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1
 UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1
