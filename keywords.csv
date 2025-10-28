@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneemassen',de,impact,#4287f5,#638ed7,2,0.1553305855202008
+'Schneemassen',de,impact,#4287f5,#638ed7,2,0.1415272172376252
 'Lawine',de,hazard,#4287f5,#022f78,3,0.1273788125571457
 'Neuschnee',de,causes,#a89216,#c4b03b,1,0.1176088794356653
 'Skifahrer Lawine',de,causes,#a89216,#c4b03d,1,0.1171217907218438
@@ -10,4 +10,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.1098584493734963
 'Erfroren Lawine',de,impact,#4287f5,#638ed4,1,0.1092705741303713
 'Erwärmung Lawinen',de,causes,#a89216,#c4b03c,1,0.0938555304343946
-'Lawinenverbauung',de,mitigation,#9e3215,#d66118,1,0.08215224043714348
+'Lawinenverbauung',de,mitigation,#9e3215,#d66118,1,0.0821522404371434
