@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,mitigation,#9e3215,#d64418,1,0.0935703758183563
 'Erfroren Lawine',de,impact,#4287f5,#638ed4,1,0.0928799880108156
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,1,0.0821522404371434
-'Lockerschneelawine',de,hazard,#4287f5,#023f78,1,0.08080976275747187
 'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.079927785172351
+'Lockerschneelawine',de,hazard,#4287f5,#023f78,1,0.06868829834385103
