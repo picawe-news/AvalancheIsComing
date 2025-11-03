@@ -1,3 +1,4 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1
 António Guterres,António Guterres,PER,0.0,0.0,de,1
+Gottfried Is,Gottfried Is,PER,0.0,0.0,de,1
