@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneemassen',de,impact,#4287f5,#638ed7,2,0.0944092542151935
 'Lawinenverschüttetensuchgerät',de,mitigation,#9e3215,#d64118,1,0.0935703758183563
 'Erfroren Lawine',de,impact,#4287f5,#638ed4,1,0.0928799880108156
-'Neuschnee',de,causes,#a89216,#c4b03b,2,0.09091075106690728
+'Neuschnee',de,causes,#a89216,#c4b03b,2,0.0909107510669072
+'Schneemassen',de,impact,#4287f5,#638ed7,3,0.09054153322577162
 'Lawinenverbauung',de,mitigation,#9e3215,#d66118,1,0.0862426324658361
 'Lawine',de,hazard,#4287f5,#022f78,2,0.083589746874157
 'Verschüttete Lawine',de,impact,#4287f5,#638ed5,1,0.079927785172351
