@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.1432386473964983
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.11867507840136428
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.1186750784013642
 'Neuschnee',de,Causes,#a89216,#c4b03b,2,0.0936163666231131
 'Schneemassen',de,Impact,#4287f5,#638ed7,3,0.0905415332257716
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0862426324658361
@@ -10,4 +10,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Erwärmung Lawinen',de,Causes,#a89216,#c4b03c,1,0.06808814848885
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0676045965287623
-'Schneebrettlawine',de,Hazard,#4287f5,#022f68,1,0.0583850535922733
+'Schneebrettlawine',de,Hazard,#4287f5,#022f68,1,0.0496272955534323
