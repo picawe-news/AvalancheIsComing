@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.053
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.051
-'Nachhaltige Schutzmaßnahmen',de,Adaptation,#157a2c,#64e371,1,0.051
+'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.051
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
