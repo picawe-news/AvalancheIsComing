@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0739499999999999
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0719274197270522
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0697
-'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0697
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.069
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.06808814848885
@@ -36,10 +35,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.065
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0645999999999999
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.064
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.064
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.064
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.064
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.064
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.062049999999999994
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0620499999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.062
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.061
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.061
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.060500015
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0603499999999999
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.06
+'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.059245
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.059
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.05865
@@ -64,13 +64,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0520199999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.051
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0496272955534323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.049
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0438000449999999
