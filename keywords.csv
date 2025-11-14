@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1376438434593414
 'Neuschnee',de,Causes,#a89216,#c4b03b,2,0.1217971789023734
-'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1212458036265212
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1206073528571428
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1037449782439699
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.10305924808254302
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0862426324658361
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.086
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.081
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.05865
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.058
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.057950015
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.057463907049447954
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0574639070494479
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.056
@@ -67,10 +67,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0496272955534323
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.049
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0438000449999999
