@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1376438434593414
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.13363327650737442
 'Neuschnee',de,Causes,#a89216,#c4b03b,2,0.1217971789023734
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1206073528571428
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1037449782439699
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.103059248082543
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0862426324658361
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.081
@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.06808814848885
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.068
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0676045965287623
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0676045965287623
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0676045965287623
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0676045965287623
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.06715
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0671057913378142
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.067
