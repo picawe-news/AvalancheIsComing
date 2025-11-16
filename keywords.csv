@@ -38,15 +38,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.062
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.061
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.061
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.06069
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.060500015
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0603499999999999
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.06
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.059245
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.059245
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.059
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.059
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.05865
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.058
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.057950015
@@ -60,16 +59,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.053
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.053
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0520199999999999
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.05185
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.051
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0498525
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0496272955534323
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0496272955534323
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.049
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
