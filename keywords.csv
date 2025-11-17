@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1336332765073744
 'Neuschnee',de,Causes,#a89216,#c4b03b,2,0.1217971789023734
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1206073528571428
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.10658835176799437
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.103059248082543
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0862426324658361
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.081
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0739499999999999
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0731
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0719274197270522
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.06808814848885
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.068
@@ -62,12 +62,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.051
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0498525
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.049
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
