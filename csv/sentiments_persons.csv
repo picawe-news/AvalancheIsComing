@@ -1,9 +1,9 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Lula da Silva,Lula da Silva,PER,0.0,0.0,de,2,,,,,,
-Oliver Geden,Oliver Geden,PER,0.0,0.0,de,2,,,,,,
-Lawinengerät schenkt Zeit,Lawinengerät schenkt Zeit,PER,0.0,0.0,de,1,,,,,,
-Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1,,,,,,
-António Guterres,António Guterres,PER,0.0,0.0,de,1,,,,,,
-Gottfried Is,Gottfried Is,PER,0.0,0.0,de,1,,,,,,
-Stephanie Geiger,Stephanie Geiger,PER,0.0,0.0,de,1,,,,,,
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Oliver Geden,Oliver Geden,PER,0.0,0.0,de,2.0
+Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1.9
+Lawinengerät schenkt Zeit,Lawinengerät schenkt Zeit,PER,0.0,0.0,de,1.0
+Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1.0
+António Guterres,António Guterres,PER,0.0,0.0,de,1.0
+Lula da Silva,Lula da Silva,PER,0.0,0.0,de,1.0
+Gottfried Is,Gottfried Is,PER,0.0,0.0,de,1.0
+Stephanie Geiger,Stephanie Geiger,PER,0.0,0.0,de,1.0

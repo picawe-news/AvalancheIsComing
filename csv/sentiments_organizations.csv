@@ -1,44 +1,44 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Lawine,Lawine,ORG,0.0,0.0,de,5,,,,,,
-italienischen Bergwacht,italienischen Bergwacht,ORG,-0.2333333333333333,0.0,de,3,,,,,,
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,2,,,,,,
-DWD,DWD,ORG,0.0,0.0,de,2,,,,,,
-Chr…,Chr…,ORG,0.7,0.0,de,2,,,,,,
-Ab…,Ab…,ORG,0.0,0.0,de,1,,,,,,
-Disney,Disney,ORG,0.0,0.0,de,1,,,,,,
-kinderfreundlichsten Medien,kinderfreundlichsten Medien,ORG,0.0,0.0,de,1,,,,,,
-Drogendea…,Drogendea…,ORG,0.0,0.0,de,1,,,,,,
-Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1,,,,,,
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1,,,,,,
-Deutschen Pre…,Deutschen Pre…,ORG,0.0,0.0,de,1,,,,,,
-hi…,hi…,ORG,-0.7,0.0,de,1,,,,,,
-Mer Film,Mer Film,ORG,0.0,0.0,de,1,,,,,,
-se…,se…,ORG,0.0,0.0,de,1,,,,,,
-berei…,berei…,ORG,0.0,0.0,de,1,,,,,,
-italieni…,italieni…,ORG,0.0,0.0,de,1,,,,,,
-Or…,Or…,ORG,0.5,0.0,de,1,,,,,,
-H…,H…,ORG,0.0,0.0,de,1,,,,,,
-Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Lawine,Lawine,ORG,0.0,0.0,de,5.0
+italienischen Bergwacht,italienischen Bergwacht,ORG,-0.2333333333333333,0.0,de,3.0
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,2.0
+Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1.9
+Ab…,Ab…,ORG,0.0,0.0,de,1.0
 "Capelight Pictures
 ","Capelight Pictures
-",ORG,0.0,0.0,de,1,,,,,,
-1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1,,,,,,
-Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1,,,,,,
-Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1,,,,,,
-Str…,Str…,ORG,0.0,0.0,de,1,,,,,,
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1,,,,,,
-ge…,ge…,ORG,0.0,0.0,de,1,,,,,,
-Ac…,Ac…,ORG,1.0,0.0,de,1,,,,,,
-Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1,,,,,,
-Durchschn…,Durchschn…,ORG,-1.0,0.0,de,1,,,,,,
-Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1,,,,,,
-steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1,,,,,,
-Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1,,,,,,
-Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1,,,,,,
-CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1,,,,,,
-Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1,,,,,,
-University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1,,,,,,
-UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1,,,,,,
-UN-Generalsekretärs,UN-Generalsekretärs,ORG,0.0,0.0,de,1,,,,,,
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1,,,,,,
-Y…,Y…,ORG,-1.0,0.0,de,1,,,,,,
+",ORG,0.0,0.0,de,1.0
+Disney,Disney,ORG,0.0,0.0,de,1.0
+kinderfreundlichsten Medien,kinderfreundlichsten Medien,ORG,0.0,0.0,de,1.0
+Drogendea…,Drogendea…,ORG,0.0,0.0,de,1.0
+Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1.0
+Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.0
+hi…,hi…,ORG,-0.7,0.0,de,1.0
+Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1.0
+Deutschen Pre…,Deutschen Pre…,ORG,0.0,0.0,de,1.0
+se…,se…,ORG,0.0,0.0,de,1.0
+berei…,berei…,ORG,0.0,0.0,de,1.0
+italieni…,italieni…,ORG,0.0,0.0,de,1.0
+Or…,Or…,ORG,0.5,0.0,de,1.0
+H…,H…,ORG,0.0,0.0,de,1.0
+Mer Film,Mer Film,ORG,0.0,0.0,de,1.0
+1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1.0
+Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+Str…,Str…,ORG,0.0,0.0,de,1.0
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
+DWD,DWD,ORG,0.0,0.0,de,1.0
+ge…,ge…,ORG,0.0,0.0,de,1.0
+Ac…,Ac…,ORG,1.0,0.0,de,1.0
+Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1.0
+Durchschn…,Durchschn…,ORG,-1.0,0.0,de,1.0
+Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1.0
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1.0
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1.0
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1.0
+CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1.0
+Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1.0
+University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1.0
+Chr…,Chr…,ORG,1.4,0.0,de,1.0
+UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1.0
+UN-Generalsekretärs,UN-Generalsekretärs,ORG,0.0,0.0,de,1.0
+Y…,Y…,ORG,-1.0,0.0,de,1.0
