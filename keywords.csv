@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.103059248082543
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
-'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0736062675959607
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0731
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.06808814848885
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.064
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.064
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.0629
+'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0628653574565666
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0628574999999999
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0620499999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.062
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.05695
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.056354999999999995
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0563549999999999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0563549999999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0561
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.056
