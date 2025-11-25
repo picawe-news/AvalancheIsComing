@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.0888089635069647
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.068688298343851
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.06715
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0671057913378142
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0663
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0590775555
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.05865
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.05838505359227335
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0580249412155225
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.057950015
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0578
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
-'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.047599999999999996
+'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
