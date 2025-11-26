@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1206073528571428
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.103059248082543
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.09105014400279515
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.0888089635069647
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0910501440027951
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.07578764898092
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.06715
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0671057913378142
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0663
