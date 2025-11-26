@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0910501440027951
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.07578764898092
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.06715
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0671057913378142
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0663
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.066
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.065
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0645999999999999
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.06441953163378199
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.064
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.064
@@ -39,9 +39,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0578
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0577639370494479
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0576687021749999
+'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0574639070494479
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0574639070494479
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0574639070494479
-'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0574639070494479
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.05695
