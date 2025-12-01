@@ -1,29 +1,34 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Lawine,Lawine,ORG,0.0,0.0,de,5.0
-italienischen Bergwacht,italienischen Bergwacht,ORG,-0.2333333333333333,0.0,de,3.0
+Lawine,Lawine,ORG,-0.5368852459016393,0.0,de,12.200000000000001
+italienischen Bergwacht,italienischen Bergwacht,ORG,-0.14583333333333334,0.0,de,4.8
+Bergwacht,Bergwacht,ORG,0.0810810810810811,0.0,de,3.6999999999999997
+ei…,ei…,ORG,0.0,0.0,de,3.6999999999999997
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,2.0
+Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.9
+Lawine e,Lawine e,ORG,0.0,0.0,de,1.9
+Innsbruck  ,Innsbruck  ,ORG,0.3684210526315789,0.2631578947368421,de,1.9
 Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1.9
-Ab…,Ab…,ORG,0.0,0.0,de,1.0
-"Capelight Pictures
-","Capelight Pictures
-",ORG,0.0,0.0,de,1.0
-Disney,Disney,ORG,0.0,0.0,de,1.0
-kinderfreundlichsten Medien,kinderfreundlichsten Medien,ORG,0.0,0.0,de,1.0
-Drogendea…,Drogendea…,ORG,0.0,0.0,de,1.0
-Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1.0
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.0
+italieni…,italieni…,ORG,0.0,0.0,de,1.0
 hi…,hi…,ORG,-0.7,0.0,de,1.0
-Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1.0
 Deutschen Pre…,Deutschen Pre…,ORG,0.0,0.0,de,1.0
+Ret…,Ret…,ORG,0.0,0.0,de,1.0
 se…,se…,ORG,0.0,0.0,de,1.0
 berei…,berei…,ORG,0.0,0.0,de,1.0
-italieni…,italieni…,ORG,0.0,0.0,de,1.0
+Ab…,Ab…,ORG,0.0,0.0,de,1.0
 Or…,Or…,ORG,0.5,0.0,de,1.0
-H…,H…,ORG,0.0,0.0,de,1.0
-Mer Film,Mer Film,ORG,0.0,0.0,de,1.0
-1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1.0
 Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+Kletterern a…,Kletterern a…,ORG,0.0,0.0,de,1.0
+Y…,Y…,ORG,-1.0,0.0,de,1.0
+österreichischen Polizei der Deutschen Presse-A…,österreichischen Polizei der Deutschen Presse-A…,ORG,0.0,0.0,de,1.0
+SchneebrettLawine,SchneebrettLawine,ORG,0.0,0.0,de,1.0
+pi…,pi…,ORG,0.0,0.0,de,1.0
+vob,vob,ORG,1.0,0.0,de,1.0
+picture alliance,picture alliance,ORG,0.7,0.0,de,1.0
+Schneema…,Schneema…,ORG,0.0,0.0,de,1.0
+H…,H…,ORG,0.0,0.0,de,1.0
+Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1.0
+Drogendea…,Drogendea…,ORG,0.0,0.0,de,1.0
+kinderfreundlichsten Medien,kinderfreundlichsten Medien,ORG,0.0,0.0,de,1.0
 Str…,Str…,ORG,0.0,0.0,de,1.0
 Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
 DWD,DWD,ORG,0.0,0.0,de,1.0
@@ -41,4 +46,12 @@ University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1.0
 Chr…,Chr…,ORG,1.4,0.0,de,1.0
 UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1.0
 UN-Generalsekretärs,UN-Generalsekretärs,ORG,0.0,0.0,de,1.0
-Y…,Y…,ORG,-1.0,0.0,de,1.0
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1.0
+Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1.0
+Mer Film,Mer Film,ORG,0.0,0.0,de,1.0
+"Capelight Pictures
+","Capelight Pictures
+",ORG,0.0,0.0,de,1.0
+Disney,Disney,ORG,0.0,0.0,de,1.0
+GEO,GEO,ORG,1.0,0.0,de,1.0
