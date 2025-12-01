@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1911193479906111
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1904276682175559
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1370999135874999
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1442850015493749
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1148510603131867
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0876007208701615
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0574639070494479
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0574639070494479
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0574639070494479
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.057077499999999996
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0570774999999999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.057039922637142
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
@@ -54,12 +54,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0501499999999999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0498525
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
