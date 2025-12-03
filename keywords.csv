@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1904276682175559
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.16500170079201942
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1650017007920194
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1442850015493749
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.109958211650824
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0644195316337819
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.064
-'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.0629
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0628653574565666
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0621349999999999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
@@ -35,13 +34,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.05695
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.05670006
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0563549999999999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0563549999999999
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0563549999999999
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.05525
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0549099999999999
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0544
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0544
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0544
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.05355
+'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.053465
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0534288749999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0533000599999999
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.053
