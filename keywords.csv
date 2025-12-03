@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1911193479906111
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1904276682175559
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.16500170079201942
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1442850015493749
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.109958211650824
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
