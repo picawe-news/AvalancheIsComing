@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1442850015493749
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.11292117259875
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.109958211650824
+'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.09888559883808161
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0876007208701615
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.08480769275
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0644195316337819
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.064
-'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0628653574565666
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0621349999999999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.06069
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.04912999999999999
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
