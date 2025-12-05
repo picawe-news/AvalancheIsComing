@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0583850535922733
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0580249412155225
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.0578
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0576687021749999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0574639070494479
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0570774999999999
@@ -58,7 +57,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.04884432099203071
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.04912999999999999
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
