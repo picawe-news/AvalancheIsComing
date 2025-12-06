@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.08480769275
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0845028040123693
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0663
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0644195316337819
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.064
@@ -26,11 +25,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0574639070494479
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0570774999999999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.057039922637142
-'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
+'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.05695
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.05670006
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.056354999999999995
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0563549999999999
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.05525
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0544
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,2,0.0468089246785713
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0466734999999999
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.046239999999999996
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0462399999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0442169999999999
