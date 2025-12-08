@@ -1,12 +1,16 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Peter Jacksons,Peter Jacksons,PER,1.0810810810810811,0.0,de,3.6999999999999997
+Stefan Winter,Stefan Winter,PER,0.0,0.0,de,2.0
 Oliver Geden,Oliver Geden,PER,0.0,0.0,de,2.0
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1.9
-Peter Jacksons,Peter Jacksons,PER,1.0526315789473684,0.0,de,1.9
+Simon Niklaus,Simon Niklaus,PER,0.0,0.0,de,1.9
 Lawinengerät schenkt Zeit,Lawinengerät schenkt Zeit,PER,0.0,0.0,de,1.0
 Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1.0
 António Guterres,António Guterres,PER,0.0,0.0,de,1.0
 Lula da Silva,Lula da Silva,PER,0.0,0.0,de,1.0
 Gottfried Is,Gottfried Is,PER,0.0,0.0,de,1.0
 Stephanie Geiger,Stephanie Geiger,PER,0.0,0.0,de,1.0
+© Sina,© Sina,PER,0.0,0.0,de,1.0
+Sina Schuldt,Sina Schuldt,PER,0.0,0.0,de,1.0
 Geoff Keighley,Geoff Keighley,PER,-0.15000000000000002,0.0,de,1.0
 Gletscher Skifahrer,Gletscher Skifahrer,PER,0.0,0.0,de,1.0
+Tourengeher von Lawine,Tourengeher von Lawine,PER,0.0,0.0,de,1.0
