@@ -43,10 +43,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0501499999999999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0498525
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
@@ -57,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.047375694855407414
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0473756948554074
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,2,0.0468089246785713
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0448311249999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0433499999999999
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.04218320122041746
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0421832012204174
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.041517672843226
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0375844499999999
