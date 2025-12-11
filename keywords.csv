@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1146742615105098
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.11292117259875
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.08480769275
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.07388671883749999
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0621633868989368
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0621349999999999
@@ -43,11 +43,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0501499999999999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0498525
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
