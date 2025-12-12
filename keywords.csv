@@ -22,11 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.057039922637142
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.05695
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.05670006
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0563549999999999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0563549999999999
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0563549999999999
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.05525
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.05355
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.053465
@@ -50,8 +49,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0484075
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
