@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,2,0.1567773911677203
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1503923263169686
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1146742615105098
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.11380401312616265
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.11292117259875
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0973826255265779
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0759059605555555
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0738867188374999
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
@@ -39,17 +39,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0501499999999999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.048633949241570704
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0486339492415707
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0484075
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.048345066
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
