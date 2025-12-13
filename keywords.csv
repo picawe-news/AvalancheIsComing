@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0580249412155225
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0576687021749999
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0570774999999999
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.057039922637142
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
@@ -48,8 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0488443209920307
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0488443209920307
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.048633949241570704
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0484075
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.048345066
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
