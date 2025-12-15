@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0738867188374999
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0621633868989368
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0621349999999999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.06069
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.059245
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.05355
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.053465
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0534288749999999
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.05281474999999991
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.05185
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.05185
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.05157502775
