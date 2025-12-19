@@ -14,10 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0576687021749999
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0570774999999999
-'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.057
+'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.057
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.05695
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.05671348736009366
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0563549999999999
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.05525
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.05355
@@ -32,12 +31,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0501499999999999
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.050006644256079556
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0496272955534323
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0493212000331941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0493
