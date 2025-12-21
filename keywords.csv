@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,2,0.1841684118487498
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.1665053674656973
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.16693518780038819
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1650017007920194
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,2,0.1337108274925622
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1138040131261626
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.04151767284322609
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
