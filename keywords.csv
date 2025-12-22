@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.04845
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0484075
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0410933061
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0407193856270962
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.04071648749999992
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0393039999999999
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0375844499999999
