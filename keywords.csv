@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,2,0.1337108274925622
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1138040131261626
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1100460945140097
-'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.0995788625095251
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0959830717089375
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.08524258813309635
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
