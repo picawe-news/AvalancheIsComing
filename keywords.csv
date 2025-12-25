@@ -17,24 +17,23 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0532889238640962
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.05185
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.05185
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0515865
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.05157502775
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0512974999999999
-'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.051
+'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0500066442560795
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0485158749999999
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.04845
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.04845
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.04845
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0484075
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.04505
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0448311249999999
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.043848525
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0424832312204174
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
