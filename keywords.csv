@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1565431650714373
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1455016706732164
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.14369607963032988
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.1436960796303298
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,2,0.1337108274925622
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1138040131261626
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1100460945140097
@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.061
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.059245
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.059
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0563549999999999
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.053465
@@ -19,15 +18,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.05185
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.05157502775
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0512974999999999
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.051
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.051
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.051
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.05035825
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0500066442560795
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0496272955534323
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0491299999999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
