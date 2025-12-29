@@ -53,13 +53,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0424832312204174
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.04220503
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0421832012204174
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
-'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0375844499999999
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
+'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.03544003691674211
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
