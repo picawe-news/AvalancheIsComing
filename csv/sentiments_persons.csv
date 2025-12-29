@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Peter Jacksons,Peter Jacksons,PER,1.0810810810810811,0.0,de,3.6999999999999997
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,2.0
 Oliver Geden,Oliver Geden,PER,0.0,0.0,de,2.0
+Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1.9
 Simon Niklaus,Simon Niklaus,PER,0.0,0.0,de,1.9
 Lawinengerät schenkt Zeit,Lawinengerät schenkt Zeit,PER,0.0,0.0,de,1.0
 Australiens Regenwälder,Australiens Regenwälder,PER,0.0,1.0,de,1.0
