@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0500066442560795
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0496272955534323
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
@@ -36,8 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0469625
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,2,0.0468089246785713
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0462399999999999
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0462399999999999
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0462399999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0457550959999999
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0424832312204174
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.04220503
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.04218320122041746
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0375844499999999
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.03585572103735479
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
