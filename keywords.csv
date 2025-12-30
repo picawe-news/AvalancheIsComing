@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1244834861572382
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1100460945140097
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.0852425881330963
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0823356859525968
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.07028536305970728
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0640728922727272
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0424832312204174
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.04220503
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.04218320122041746
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
