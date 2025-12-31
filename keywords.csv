@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.1639108995039621
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1565431650714373
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.14836628366927687
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1455016706732164
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,2,0.1337108274925622
@@ -73,5 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
-'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.031946782499999916
+'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0319467824999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
