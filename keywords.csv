@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0500066442560795
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.04845
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0424832312204174
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.04220503
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.04218320122041746
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
