@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0702853630597072
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
-'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0640728922727272
+'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.05566207843181811
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.052000015
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.05185
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.051
