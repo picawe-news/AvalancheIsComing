@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
 'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1215066049131318
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.09383921033690826
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0938392103369082
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0600425886007511
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.055743570826785604
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0556620784318181
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.052000015
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.05185
