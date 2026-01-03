@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1565431650714373
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1483662836692768
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
-'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.12150660491313187
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1215066049131318
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1100460945140097
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.09383921033690826
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0694706364722221
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0641687656785713
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0600425886007511
