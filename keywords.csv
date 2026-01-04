@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0496272955534323
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.048582155202767756
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.04845
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.04845
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0484075
@@ -51,11 +51,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.03585572103735479
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
