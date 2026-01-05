@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2061765700722339
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1752502945613988
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1565431650714373
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.1483662836692768
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
@@ -62,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.036560791537354795
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0365607915373547
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
