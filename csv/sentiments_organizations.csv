@@ -1,58 +1,62 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Lawine,Lawine,ORG,-0.4145569620253164,0.0,de,15.800000000000002
-italienischen Bergwacht,italienischen Bergwacht,ORG,-0.14583333333333334,0.0,de,4.8
+italienischen Bergwacht,italienischen Bergwacht,ORG,-0.14285714285714285,0.0,de,4.9
+Marmolata,Marmolata,ORG,0.717391304347826,0.0,de,4.6
 ei…,ei…,ORG,0.0,0.0,de,3.6999999999999997
 Bergwacht,Bergwacht,ORG,0.0810810810810811,0.0,de,3.6999999999999997
 Schneesituation,Schneesituation,ORG,0.25,0.0,de,2.8
+picture alliance,picture alliance,ORG,0.25,0.0,de,2.8
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,2.0
 Innsbruck  ,Innsbruck  ,ORG,0.3684210526315789,0.2631578947368421,de,1.9
+APA,APA,ORG,0.0,0.0,de,1.9
+ÖAV,ÖAV,ORG,0.5263157894736842,0.0,de,1.9
 Lawine e,Lawine e,ORG,0.0,0.0,de,1.9
 Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.9
-Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1.9
-ÖAV,ÖAV,ORG,0.5263157894736842,0.0,de,1.9
 österreichischen Polizei der Deutschen Presse-A…,österreichischen Polizei der Deutschen Presse-A…,ORG,0.0,0.0,de,1.9
-APA,APA,ORG,0.0,0.0,de,1.9
-picture alliance,picture alliance,ORG,0.3684210526315789,0.0,de,1.9
 ORF,ORF,ORG,0.3684210526315789,0.0,de,1.9
-SchneebrettLawine,SchneebrettLawine,ORG,0.0,0.0,de,1.0
-GEO,GEO,ORG,1.0,0.0,de,1.0
-Or…,Or…,ORG,0.5,0.0,de,1.0
-baden-württembergisc…,baden-württembergisc…,ORG,0.0,0.0,de,1.0
-H…,H…,ORG,0.0,0.0,de,1.0
-Samstagvormittag be…,Samstagvormittag be…,ORG,0.0,0.0,de,1.0
-Die Lawine,Die Lawine,ORG,0.0,0.0,de,1.0
-Sicherheitsarmband,Sicherheitsarmband,ORG,-0.7,0.0,de,1.0
-Pieps,Pieps,ORG,0.0,0.0,de,1.0
-Lawinen,Lawinen,ORG,0.0,0.0,de,1.0
-Kletterern a…,Kletterern a…,ORG,0.0,0.0,de,1.0
-pi…,pi…,ORG,0.0,0.0,de,1.0
-Y…,Y…,ORG,-1.0,0.0,de,1.0
-Dreamers Destination,Dreamers Destination,ORG,0.7,0.0,de,1.0
+Straß…,Straß…,ORG,0.0,0.0,de,1.9
+Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1.9
 Österreichische Alpenverein,Österreichische Alpenverein,ORG,0.0,0.0,de,1.0
-Schneema…,Schneema…,ORG,0.0,0.0,de,1.0
-VR-Brille,VR-Brille,ORG,1.0,0.0,de,1.0
-berei…,berei…,ORG,0.0,0.0,de,1.0
 we…,we…,ORG,0.0,0.0,de,1.0
-vob,vob,ORG,1.0,0.0,de,1.0
-österrei…,österrei…,ORG,0.0,0.0,de,1.0
-italieni…,italieni…,ORG,0.0,0.0,de,1.0
+Y…,Y…,ORG,-1.0,0.0,de,1.0
+Kletterern a…,Kletterern a…,ORG,0.0,0.0,de,1.0
+VR-Brille,VR-Brille,ORG,1.0,0.0,de,1.0
+Dreamers Destination,Dreamers Destination,ORG,0.7,0.0,de,1.0
 Ab…,Ab…,ORG,0.0,0.0,de,1.0
-se…,se…,ORG,0.0,0.0,de,1.0
-Ret…,Ret…,ORG,0.0,0.0,de,1.0
-Str…,Str…,ORG,0.0,0.0,de,1.0
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
-DWD,DWD,ORG,0.0,0.0,de,1.0
-ge…,ge…,ORG,0.0,0.0,de,1.0
-Ac…,Ac…,ORG,1.0,0.0,de,1.0
-Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1.0
-Durchschn…,Durchschn…,ORG,-1.0,0.0,de,1.0
+österrei…,österrei…,ORG,0.0,0.0,de,1.0
+Sicherheitsarmband,Sicherheitsarmband,ORG,-0.7,0.0,de,1.0
+Meteorolog…,Meteorolog…,ORG,0.0,0.0,de,1.0
+BergsportInfluencer,BergsportInfluencer,ORG,0.0,0.0,de,1.0
+Kathimerini unt…,Kathimerini unt…,ORG,0.0,0.0,de,1.0
+SZ Photo,SZ Photo,ORG,0.0,0.0,de,1.0
+baden-württembergisc…,baden-württembergisc…,ORG,0.0,0.0,de,1.0
+Samstagvormittag be…,Samstagvormittag be…,ORG,0.0,0.0,de,1.0
+Pieps,Pieps,ORG,0.0,0.0,de,1.0
+H…,H…,ORG,0.0,0.0,de,1.0
+Lawinen,Lawinen,ORG,0.0,0.0,de,1.0
+GEO,GEO,ORG,1.0,0.0,de,1.0
+Schneema…,Schneema…,ORG,0.0,0.0,de,1.0
+vob,vob,ORG,1.0,0.0,de,1.0
+pi…,pi…,ORG,0.0,0.0,de,1.0
+SchneebrettLawine,SchneebrettLawine,ORG,0.0,0.0,de,1.0
+Die Lawine,Die Lawine,ORG,0.0,0.0,de,1.0
+berei…,berei…,ORG,0.0,0.0,de,1.0
+Or…,Or…,ORG,0.5,0.0,de,1.0
 Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1.0
-Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1.0
-steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1.0
-Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1.0
-CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1.0
-Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1.0
 University Exeter,University Exeter,ORG,-0.15000000000000002,0.0,de,1.0
+Global Tipping Points“-Report,Global Tipping Points“-Report,ORG,0.0,0.0,de,1.0
+CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1.0
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1.0
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1.0
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1.0
+Durchschn…,Durchschn…,ORG,-1.0,0.0,de,1.0
+italieni…,italieni…,ORG,0.0,0.0,de,1.0
+Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1.0
+Ac…,Ac…,ORG,1.0,0.0,de,1.0
+ge…,ge…,ORG,0.0,0.0,de,1.0
+DWD,DWD,ORG,0.0,0.0,de,1.0
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
+Str…,Str…,ORG,0.0,0.0,de,1.0
 Chr…,Chr…,ORG,1.4,0.0,de,1.0
 UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,1.0
 UN-Generalsekretärs,UN-Generalsekretärs,ORG,0.0,0.0,de,1.0
@@ -69,5 +73,7 @@ Drogendea…,Drogendea…,ORG,0.0,0.0,de,1.0
 Risikogruppen,Risikogruppen,ORG,0.0,0.0,de,1.0
 hi…,hi…,ORG,-0.7,0.0,de,1.0
 Deutschen Pre…,Deutschen Pre…,ORG,0.0,0.0,de,1.0
+Ret…,Ret…,ORG,0.0,0.0,de,1.0
+se…,se…,ORG,0.0,0.0,de,1.0
 Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
-SZ Photo,SZ Photo,ORG,0.0,0.0,de,1.0
+Kitzbüheler Bergbahn,Kitzbüheler Bergbahn,ORG,0.0,0.0,de,1.0
