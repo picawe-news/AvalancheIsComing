@@ -21,12 +21,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.047
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0469625
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,2,0.0468089246785713
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0462399999999999
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0462399999999999
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0462399999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0457550959999999
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
@@ -43,20 +42,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0421832012204174
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0407164874999999
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
