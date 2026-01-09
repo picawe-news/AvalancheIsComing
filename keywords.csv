@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1565431650714373
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
-'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.13678159200428316
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1367815920042831
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1111500299999999
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0640008210013887
@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0493993764920307
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0484075
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0475999999999999
@@ -33,8 +32,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.04505
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0448311249999999
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0440725
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0440725
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0440725
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.043848525
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0436028749999999
@@ -42,10 +41,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0421832012204174
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.041146375
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0407164874999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
