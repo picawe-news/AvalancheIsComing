@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1622129753771889
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1615134037863719
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.14530604229454974
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
-'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1367815920042831
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1332117053107217
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1111500299999999
