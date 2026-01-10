@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0469625
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,2,0.0468089246785713
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0462399999999999
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0462399999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0457550959999999
@@ -47,16 +46,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.041146375
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.039303999999999915
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.034609014374999914
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0346090143749999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0319467824999999
