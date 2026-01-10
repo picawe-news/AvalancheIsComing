@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1622129753771889
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1615134037863719
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.145432496805081
-'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.14530604229454974
+'Schneemassen',de,Impacts,#4287f5,#638ed7,2,0.1453060422945497
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1332117053107217
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
@@ -47,15 +47,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.041146375
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0407164874999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
@@ -63,14 +62,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0365607915373547
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.034609014374999914
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0319467824999999
