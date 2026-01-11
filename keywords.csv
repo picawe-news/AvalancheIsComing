@@ -33,15 +33,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0441385159767856
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0440725
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0440725
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.043848525
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0436028749999999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0421832012204174
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.03727124625
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0365607915373547
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0358557210373547
