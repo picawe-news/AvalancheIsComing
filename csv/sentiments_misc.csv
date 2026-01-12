@@ -1,89 +1,108 @@
 ,phrase,label,sentiment,subjectivity,language,count
-deutsche,deutsche,MISC,,,de,54.39999999999998
-Deutsche,Deutsche,MISC,,,de,31.19999999999998
+deutsche,deutsche,MISC,,,de,57.99999999999997
+Deutsche,Deutsche,MISC,,,de,41.099999999999966
 "Link
 ","Link
-",MISC,,,de,25.799999999999986
-Deutscher,Deutscher,MISC,,,de,25.09999999999999
-“,“,MISC,-2.0,0.0,de,15.800000000000004
-französischen,französischen,MISC,,,de,12.700000000000003
+",MISC,,,de,31.69999999999998
+Deutscher,Deutscher,MISC,,,de,26.19999999999999
+“,“,MISC,-2.0,0.0,de,17.300000000000004
+französischen,französischen,MISC,,,de,13.600000000000003
 deutschen,deutschen,MISC,,,de,11.9
+italienische,italienische,MISC,,,de,7.6000000000000005
 österreichischen,österreichischen,MISC,,,de,7.300000000000001
-italienische,italienische,MISC,,,de,5.8
+italienischen,italienischen,MISC,,,de,5.9
 Der junge Mann,Der junge Mann,MISC,,,de,5.5
-italienischen,italienischen,MISC,,,de,5.0
-Deutschen,Deutschen,MISC,,,de,4.8
-"Ringe""-Trilogie","Ringe""-Trilogie",MISC,,,de,3.6999999999999997
+Deutschen,Deutschen,MISC,,,de,5.0
+Weihnachten,Weihnachten,MISC,,,de,3.6999999999999997
 österreichische,österreichische,MISC,,,de,3.6999999999999997
+"Ringe""-Trilogie","Ringe""-Trilogie",MISC,,,de,3.6999999999999997
 Todesopfer des Lawinenunglücks,Todesopfer des Lawinenunglücks,MISC,,,de,3.0
-Notfälle“,Notfälle“,MISC,,,de,2.8
 Drei Tote,Drei Tote,MISC,,,de,2.8
 Streif-Abfahrt,Streif-Abfahrt,MISC,,,de,2.8
-S…,S…,MISC,,,de,2.0
-IPCC-Forscher,IPCC-Forscher,MISC,,,de,2.0
+Notfälle“,Notfälle“,MISC,,,de,2.8
+Herr Winter,Herr Winter,MISC,,,de,2.0
 Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,2.0
+S…,S…,MISC,,,de,2.0
 Lawinenunglück,Lawinenunglück,MISC,0.0,0.0,de,2.0
-Großeinsatz“,Großeinsatz“,MISC,,,de,1.9
-Weihnachten,Weihnachten,MISC,,,de,1.9
+IPCC-Forscher,IPCC-Forscher,MISC,,,de,2.0
+stern+statt,stern+statt,MISC,,,de,1.9
+norditalienischen,norditalienischen,MISC,,,de,1.9
 Himalaya“,Himalaya“,MISC,,,de,1.9
-Herr Winter,Herr Winter,MISC,,,de,1.9
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.9
+stern+,stern+,MISC,,,de,1.9
+Großeinsatz“,Großeinsatz“,MISC,,,de,1.9
+europäische,europäische,MISC,,,de,1.3
+Berliner,Berliner,MISC,,,de,1.3
+HSV-Mannschaft,HSV-Mannschaft,MISC,,,de,1.3
+ungemütliches,ungemütliches,MISC,,,de,1.3
 Freundliches Wetter,Freundliches Wetter,MISC,,,de,1.1
-Notfall Lawine VR“,Notfall Lawine VR“,MISC,,,de,1.0
-Winterwetter“,Winterwetter“,MISC,,,de,1.0
-Half-Life 3,Half-Life 3,MISC,,,de,1.0
-Half-Life,Half-Life,MISC,,,de,1.0
-Schweizer,Schweizer,MISC,,,de,1.0
-KI,KI,MISC,,,de,1.0
-Unfall in Tirol,Unfall in Tirol,MISC,,,de,1.0
-u…,u…,MISC,,,de,1.0
-Finanzwelt der Zukunft,Finanzwelt der Zukunft,MISC,,,de,1.0
-Kathimerini,Kathimerini,MISC,,,de,1.0
-"Ringe""-Effekt","Ringe""-Effekt",MISC,,,de,1.0
-Zeit,Zeit,MISC,,,de,1.0
-Der Mann,Der Mann,MISC,,,de,1.0
-Zeit der Winterwanderer,Zeit der Winterwanderer,MISC,,,de,1.0
-Energieausbeute,Energieausbeute,MISC,,,de,1.0
-Temperaturanstieg,Temperaturanstieg,MISC,,,de,1.0
-e…,e…,MISC,,,de,1.0
-spanischen,spanischen,MISC,,,de,1.0
-Stubaier Gletschers,Stubaier Gletschers,MISC,,,de,1.0
-realitätsnah g…,realitätsnah g…,MISC,,,de,1.0
-N…,N…,MISC,,,de,1.0
-Tragödie auf der Zugspitze,Tragödie auf der Zugspitze,MISC,,,de,1.0
-Ein Klettersteig an der Zugspitze is,Ein Klettersteig an der Zugspitze is,MISC,,,de,1.0
-A…,A…,MISC,,,de,1.0
-Woc…,Woc…,MISC,,,de,1.0
-Fantasy-Reihe,Fantasy-Reihe,MISC,,,de,1.0
-Der Herr der Ringe,Der Herr der Ringe,MISC,,,de,1.0
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.0
-stern+,stern+,MISC,,,de,1.0
-stern+statt,stern+statt,MISC,,,de,1.0
-Schneerutsch,Schneerutsch,MISC,,,de,1.0
-sozialen,sozialen,MISC,,,de,1.0
-deutscher,deutscher,MISC,,,de,1.0
-dpa,dpa,MISC,,,de,1.0
 27.11.2025,27.11.2025,MISC,,,de,1.0
-Tragödie im Himalaya,Tragödie im Himalaya,MISC,,,de,1.0
-Lahnerhornlawine“,Lahnerhornlawine“,MISC,,,de,1.0
-Wieserlawine“,Wieserlawine“,MISC,,,de,1.0
-B311,B311,MISC,-1.0,0.0,de,1.0
-Chance auf weiße Weihnachten,Chance auf weiße Weihnachten,MISC,,,de,1.0
-La Plagne/ Valloire,La Plagne/ Valloire,MISC,,,de,1.0
-Unfälle,Unfälle,MISC,0.0,0.0,de,1.0
+Fantasy-Reihe,Fantasy-Reihe,MISC,,,de,1.0
+A…,A…,MISC,,,de,1.0
+Notfall Lawine VR“,Notfall Lawine VR“,MISC,,,de,1.0
+Der Newsblog,Der Newsblog,MISC,,,de,1.0
+Woc…,Woc…,MISC,,,de,1.0
+realitätsnah g…,realitätsnah g…,MISC,,,de,1.0
+Hause,Hause,MISC,,,de,1.0
+Hamburger,Hamburger,MISC,,,de,1.0
+Stubaier Gletschers,Stubaier Gletschers,MISC,,,de,1.0
+dpa,dpa,MISC,,,de,1.0
+Der Herr der Ringe,Der Herr der Ringe,MISC,,,de,1.0
+Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.0
+Fanklubs,Fanklubs,MISC,,,de,1.0
+Samstagmittag,Samstagmittag,MISC,,,de,1.0
+Sat.1/Sky,Sat.1/Sky,MISC,,,de,1.0
+Schneerutsch,Schneerutsch,MISC,,,de,1.0
+N…,N…,MISC,,,de,1.0
+sozialen,sozialen,MISC,,,de,1.0
+Augsburger Allgemeine“,Augsburger Allgemeine“,MISC,,,de,1.0
+deutscher,deutscher,MISC,,,de,1.0
+Tragödie auf der Zugspitze,Tragödie auf der Zugspitze,MISC,,,de,1.0
+u…,u…,MISC,,,de,1.0
+Kathimerini,Kathimerini,MISC,,,de,1.0
 Vier Tote bei Lawinenunglück,Vier Tote bei Lawinenunglück,MISC,,,de,1.0
-Lawi…,Lawi…,MISC,,,de,1.0
+Unfälle,Unfälle,MISC,0.0,0.0,de,1.0
+La Plagne/ Valloire,La Plagne/ Valloire,MISC,,,de,1.0
+Verbrenner-Verbot,Verbrenner-Verbot,MISC,,,de,1.0
+Chance auf weiße Weihnachten,Chance auf weiße Weihnachten,MISC,,,de,1.0
+chinesischen,chinesischen,MISC,,,de,1.0
+B311,B311,MISC,-1.0,0.0,de,1.0
+Wieserlawine“,Wieserlawine“,MISC,,,de,1.0
+n…,n…,MISC,,,de,1.0
+spanischen,spanischen,MISC,,,de,1.0
+Lahnerhornlawine“,Lahnerhornlawine“,MISC,,,de,1.0
+Der Mann,Der Mann,MISC,,,de,1.0
+d…,d…,MISC,,,de,1.0
+Grenze,Grenze,MISC,,,de,1.0
+Der Fall Lorenz,Der Fall Lorenz,MISC,,,de,1.0
+Half-Life 3,Half-Life 3,MISC,,,de,1.0
+Ein Toter,Ein Toter,MISC,,,de,1.0
+Der Flensburg-Krimi,Der Flensburg-Krimi,MISC,,,de,1.0
+BVB-Sprecher,BVB-Sprecher,MISC,,,de,1.0
+Olympia-Bewerbung,Olympia-Bewerbung,MISC,,,de,1.0
+Ein Klettersteig an der Zugspitze is,Ein Klettersteig an der Zugspitze is,MISC,,,de,1.0
+Bundesliga-Spiel,Bundesliga-Spiel,MISC,,,de,1.0
+Unfall in Tirol,Unfall in Tirol,MISC,,,de,1.0
+Ein Klettersteig an der Zugspitze,Ein Klettersteig an der Zugspitze,MISC,,,de,1.0
+Winterwetter“,Winterwetter“,MISC,,,de,1.0
 Regentief,Regentief,MISC,,,de,1.0
-Sieben Tote,Sieben Tote,MISC,,,de,1.0
+Half-Life,Half-Life,MISC,,,de,1.0
+bayerische,bayerische,MISC,,,de,1.0
+INTERVIEW,INTERVIEW,MISC,,,de,1.0
+ABCDE-Regel,ABCDE-Regel,MISC,,,de,1.0
+Im Winter,Im Winter,MISC,,,de,1.0
+Kino-Überraschung des Jahres,Kino-Überraschung des Jahres,MISC,,,de,1.0
 Aschenputtel,Aschenputtel,MISC,,,de,1.0
+The Ugly Stepsister,The Ugly Stepsister,MISC,,,de,1.0
 Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
 Wetterbericht“,Wetterbericht“,MISC,,,de,1.0
 Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.0
 Wochenstar…,Wochenstar…,MISC,,,de,1.0
 Schweizer Alpen-Dorfes,Schweizer Alpen-Dorfes,MISC,,,de,1.0
 Horror-Lawine,Horror-Lawine,MISC,,,de,1.0
-bayerische,bayerische,MISC,,,de,1.0
 Photovoltaik-Anlage,Photovoltaik-Anlage,MISC,,,de,1.0
 CO2,CO2,MISC,,,de,1.0
+kalifornischen,kalifornischen,MISC,,,de,1.0
 CO2-Speicher,CO2-Speicher,MISC,,,de,1.0
 Global Tipping Points Report“,Global Tipping Points Report“,MISC,,,de,1.0
 Uh…,Uh…,MISC,,,de,1.0
@@ -94,17 +113,28 @@ goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
 Wetter“,Wetter“,MISC,,,de,1.0
 chinesischer,chinesischer,MISC,,,de,1.0
 Fis…,Fis…,MISC,,,de,1.0
-europäische,europäische,MISC,,,de,1.0
 Freistaat,Freistaat,MISC,-0.7,0.0,de,1.0
 TTS Player,TTS Player,MISC,,,de,1.0
 Extremwetterereignis…,Extremwetterereignis…,MISC,,,de,1.0
-The Ugly Stepsister,The Ugly Stepsister,MISC,,,de,1.0
-Kino-Überraschung des Jahres,Kino-Überraschung des Jahres,MISC,,,de,1.0
-Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1.0
-Im Winter,Im Winter,MISC,,,de,1.0
-Sieben Tote bei Lawinenunglück,Sieben Tote bei Lawinenunglück,MISC,,,de,1.0
+Der Free-Solo-Star Alex Honnold,Der Free-Solo-Star Alex Honnold,MISC,,,de,1.0
+Start g,Start g,MISC,,,de,1.0
+Schweizer,Schweizer,MISC,,,de,1.0
 Schneemas…,Schneemas…,MISC,,,de,1.0
+KI,KI,MISC,,,de,1.0
+Finanzwelt der Zukunft,Finanzwelt der Zukunft,MISC,,,de,1.0
+"Ringe""-Effekt","Ringe""-Effekt",MISC,,,de,1.0
+Zeit,Zeit,MISC,,,de,1.0
+Zeit der Winterwanderer,Zeit der Winterwanderer,MISC,,,de,1.0
+Energieausbeute,Energieausbeute,MISC,,,de,1.0
+Temperaturanstieg,Temperaturanstieg,MISC,,,de,1.0
+e…,e…,MISC,,,de,1.0
+Lawi…,Lawi…,MISC,,,de,1.0
+Tragödie im Himalaya,Tragödie im Himalaya,MISC,,,de,1.0
+Sieben Tote,Sieben Tote,MISC,,,de,1.0
+Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1.0
+Sieben Tote bei Lawinenunglück,Sieben Tote bei Lawinenunglück,MISC,,,de,1.0
 Tag unterweg…,Tag unterweg…,MISC,,,de,1.0
+Drei deutsche Bergsteiger,Drei deutsche Bergsteiger,MISC,,,de,1.0
 Lawinenunglück“,Lawinenunglück“,MISC,,,de,1.0
 Todesopfer des L…,Todesopfer des L…,MISC,,,de,1.0
 Ge…,Ge…,MISC,,,de,1.0
@@ -113,16 +143,9 @@ Aufstiegs,Aufstiegs,MISC,,,de,1.0
 Alle deutschen Lawinenopfer,Alle deutschen Lawinenopfer,MISC,,,de,1.0
 Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1.0
 Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
-norditalienischen,norditalienischen,MISC,,,de,1.0
 Ortler-Gebirge,Ortler-Gebirge,MISC,-0.11666666666666665,0.0,de,1.0
 Die tragische Bi…,Die tragische Bi…,MISC,,,de,1.0
 Fünf Deutsche,Fünf Deutsche,MISC,,,de,1.0
 Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1.0
 Lawinenun…,Lawinenun…,MISC,,,de,1.0
-Drei deutsche Bergsteiger,Drei deutsche Bergsteiger,MISC,,,de,1.0
-Start g,Start g,MISC,,,de,1.0
-kalifornischen,kalifornischen,MISC,,,de,1.0
-Der Free-Solo-Star Alex Honnold,Der Free-Solo-Star Alex Honnold,MISC,,,de,1.0
-INTERVIEW,INTERVIEW,MISC,,,de,1.0
-ABCDE-Regel,ABCDE-Regel,MISC,,,de,1.0
-d…,d…,MISC,,,de,1.0
+Schwerer Schnee“,Schwerer Schnee“,MISC,,,de,1.0
