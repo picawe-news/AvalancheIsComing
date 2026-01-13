@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,2,0.17679520059322607
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.163789903846158
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1622129753771889
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1615134037863719
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0556620784318181
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
-'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0489943359920307
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0479017499999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
