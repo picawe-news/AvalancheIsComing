@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.1335363503106384
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1332117053107217
-'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.1278845601786057
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1242235538491403
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1111500299999999
+'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.10885189115181484
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0640008210013887
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0556620784318181
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
-'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.023081550356249914
+'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0230815503562499
