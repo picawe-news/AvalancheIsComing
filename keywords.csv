@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1332117053107217
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.11350601776404265
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1135060177640426
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1111500299999999
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.1088518911518148
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0640008210013887
@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0469625
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0462399999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.04544525
@@ -32,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.042374625
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0407164874999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.039303999999999915
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
