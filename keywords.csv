@@ -34,20 +34,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.041517672843226
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
-'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
+'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.041146375
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0407600299999999
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0407164874999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.03544003691674211
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
