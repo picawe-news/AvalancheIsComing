@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1656177722843188
-'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.16470970420145836
+'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1647097042014583
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.163789903846158
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1622129753771889
@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.047685
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0469625
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.04675
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.04544525
@@ -36,13 +35,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.041146375
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0407600299999999
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0407164874999999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.03995
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0397375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
