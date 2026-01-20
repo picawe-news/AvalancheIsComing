@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2505378146328706
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.20828663952515603
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.208286639525156
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1656177722843188
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1647097042014583
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.04544525
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0441385159767856
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0440725
@@ -28,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.041517672843226
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
+'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.0386284625
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0384064862499999
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
