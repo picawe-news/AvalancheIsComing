@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2505378146328706
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.20828663952515603
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1656177722843188
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1647097042014583
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1622129753771889
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1615134037863719
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1135060177640426
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1132299495141134
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.056351387851180386
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0563513878511803
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
