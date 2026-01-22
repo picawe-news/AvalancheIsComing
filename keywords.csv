@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1132299495141134
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.09625837533452078
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0962583753345207
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0563513878511803
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
@@ -58,13 +58,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0358557210373547
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
-'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0354400369167421
+'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.03497441875
@@ -74,4 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.030477362881751496
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0230815503562499
