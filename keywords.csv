@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1443557076176675
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1136542483686778
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1132299495141134
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1114802650994362
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.09625837533452078
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0563513878511803
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
