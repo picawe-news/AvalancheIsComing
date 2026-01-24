@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0569402937644123
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0498525
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
@@ -26,8 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0428045124999999
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0424688185802677
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.042374625
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.03497441875
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.034609014374999914
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0346090143749999
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
