@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1556346375037647
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.1448740463792307
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1420561561133761
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1213774528817515
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1132299495141134
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0962583753345207
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
@@ -41,8 +42,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.039918125
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0397375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0396724749999999
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.038689875
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.0386284625
@@ -57,9 +58,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0358557210373547
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0354400369167421
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
