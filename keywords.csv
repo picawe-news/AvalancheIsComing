@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0412384937499999
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0411825
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0411825
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.041146375
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0407600299999999
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0354024999999999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.035005125
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.035005125
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.03497441875
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
