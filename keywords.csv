@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
-'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0440725
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0436028749999999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
@@ -51,9 +50,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0378475385875
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.037461625
+'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.037461625
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.03727124625
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0365607915373547
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.036383835624999916
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
