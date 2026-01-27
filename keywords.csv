@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1556346375037647
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.1473440660825631
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.1232929544223461
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.12119777769636968
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1211977776963696
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.1132299495141134
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1040709249494887
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0962583753345207
@@ -73,5 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0304773628817514
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0294176622187499
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.025005012885937414
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0230815503562499
