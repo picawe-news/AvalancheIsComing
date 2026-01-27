@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0354400369167421
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0346090143749999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0304773628817514
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.025005012885937414
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.025905758449488687
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0230815503562499
