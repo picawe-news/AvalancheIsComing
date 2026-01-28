@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2505378146328706
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.208286639525156
-'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.18177531538942138
+'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1615134037863719
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1556346375037647
@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0354400369167421
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0259057584494886
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
-'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0230815503562499
+'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.019619317802812414
