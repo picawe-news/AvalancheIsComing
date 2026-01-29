@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.1232929544223461
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1211977776963696
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0962583753345207
-'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.09624545708699639
+'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0962454570869963
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0884603762070653
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0569402937644123
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.05335001469975046
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.05035825
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0360242905
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.035691049515492
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0354400369167421
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
