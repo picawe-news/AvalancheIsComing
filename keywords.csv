@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1556346375037647
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.1473440660825631
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.1423032674859681
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1381864832184161
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1211977776963696
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.1049490262589941
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0304773628817514
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0300921249999999
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.029417662218749915
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0259057584494886
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
