@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.25563099723274624
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2465462360743036
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.208286639525156
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1556346375037647
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0962454570869963
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0723219536791912
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.06557778830960467
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0655777883096046
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0485821552027677
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
