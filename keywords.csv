@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1381864832184161
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1211977776963696
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.104949026258994
-'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0962454570869963
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0926741224790425
+'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.08180863852394686
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0723219536791912
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0655777883096046
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0429545275
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.04264496692235255
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0426449669223525
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0424688185802677
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
