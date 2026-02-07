@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.04505
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0429545275
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0384064862499999
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
+'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0382925
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0378475385875
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.037461625
