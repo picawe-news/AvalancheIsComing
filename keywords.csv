@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2172873376478342
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.1324394568782
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1209581073630729
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.11272355334647
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1034681560419141
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0893566873201449
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0855715147690096
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0337216037499999
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.03279552831249992
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0327955283124999
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0306206469249999
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0304773628817514
