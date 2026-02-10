@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0695373427453547
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0672345812411081
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0655777883096046
+'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.05801328273934235
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
-'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0469186994794402
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0438387735875
