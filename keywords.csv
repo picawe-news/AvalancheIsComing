@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2465462360743036
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2172873376478342
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2057359521749999
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1622775554999999
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1209581073630729
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.11272355334647
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1034681560419141
@@ -47,9 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0360184312499999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.028663363187499912
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0286633631874999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0259057584494886
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
