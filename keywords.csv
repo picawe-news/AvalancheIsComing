@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0424688185802677
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0421832012204174
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.0417604999999999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.039918125
@@ -36,8 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0381586568749999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0378475385875
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.037461625
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.037461625
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.037461625
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.03727124625
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0370624437499999
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.036661363375
@@ -45,10 +44,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0360184312499999
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.035496424999999915
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0350527196874999
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
