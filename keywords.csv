@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0764738106273125
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0761031992221231
-'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0695373427453547
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0672345812411081
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0655777883096046
+'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.05910674133355149
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0304773628817514
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.030171961249999914
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.0301719612499999
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0286633631874999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0259057584494886
