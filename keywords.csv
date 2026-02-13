@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.0354964249999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0350527196874999
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0304773628817514
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.030171961249999914
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0286633631874999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0259057584494886
