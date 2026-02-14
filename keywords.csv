@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0761031992221231
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0672345812411081
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0655777883096046
-'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.05910674133355149
+'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.039918125
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
@@ -43,9 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0363838356249999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0360184312499999
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0350527196874999
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0346090143749999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0339575
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.033930406249999996
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
