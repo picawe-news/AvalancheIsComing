@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2057359521749999
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1751084826096511
+'Hangneigung',de,Causes,#a89216,#e6d59e,2,0.1683355846099999
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1209581073630729
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,2,0.11272355334647
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1034681560419141
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0393039999999999
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0390418465999999
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.0386284625
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0346090143749999
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0339575
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.033930406249999996
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
