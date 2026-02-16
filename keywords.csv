@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1751084826096511
 'Hangneigung',de,Causes,#a89216,#e6d59e,2,0.1683355846099999
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1209581073630729
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1034681560419141
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0958150203444995
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.08854799263562699
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0765267178067514
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0764738106273125
