@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2465462360743036
+'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.22309836671737174
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2057359521749999
-'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.1817753153894213
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1751084826096511
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696120446796645
 'Hangneigung',de,Causes,#a89216,#e6d59e,2,0.1683355846099999
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0327955283124999
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.032548625
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0324348583437499
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.031842381249999996
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0318423812499999
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0316805593125
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0306206469249999
