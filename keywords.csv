@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.2465462360743036
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.2840631152086126
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2230983667173717
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2057359521749999
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.1751084826096511
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0286633631874999
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.027066024062499913
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0270660240624999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
