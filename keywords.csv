@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696120446796645
 'Hangneigung',de,Causes,#a89216,#e6d59e,2,0.1683355846099999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,2,0.1657656815624999
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.14336585374028285
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1433658537402828
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1156538151782332
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0571493940549418
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.046050015
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0426449669223525
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0386023621874999
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0378475385875
