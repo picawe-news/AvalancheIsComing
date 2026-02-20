@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696120446796645
 'Hangneigung',de,Causes,#a89216,#e6d59e,2,0.1683355846099999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,2,0.1657656815624999
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.14336585374028285
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1156538151782332
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0885479926356269
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0765267178067514
