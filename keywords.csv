@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0765267178067514
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.07384718499999991
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0731858325536581
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0648377343388046
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0334083999999999
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0334083999999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0327955283124999
