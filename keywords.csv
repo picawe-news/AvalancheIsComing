@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0765267178067514
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0738471849999999
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0731858325536581
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0648377343388046
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0571493940549418
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0558911350631639
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.05511207418798391
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
