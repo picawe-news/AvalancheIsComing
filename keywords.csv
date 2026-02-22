@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0571493940549418
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0558911350631639
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.05511207418798391
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
@@ -69,9 +69,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.028863875
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0286633631874999
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0270660240624999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.02436385870937491
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
