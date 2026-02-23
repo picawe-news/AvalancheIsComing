@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1261228427162734
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0765267178067514
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0738471849999999
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.06564777013573868
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0580132827393423
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0571493940549418
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.028863875
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.023006120453124914
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
