@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.2840631152086126
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.3404991020182298
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2717691752182034
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2230983667173717
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.1995957179777148
@@ -34,10 +34,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.036661363375
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0360184312499999
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0358557210373547
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.035005125
