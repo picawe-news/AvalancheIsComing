@@ -38,15 +38,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.035005125
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.03497441875
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.033408399999999915
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0334083999999999
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0334083999999999
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0331120378593749
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
@@ -65,9 +64,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0301719612499999
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.028863875
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
