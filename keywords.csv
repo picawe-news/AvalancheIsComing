@@ -28,15 +28,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0393039999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.036661363375
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0358557210373547
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0358557210373547
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0358557210373547
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.035005125
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0346114777830317
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.033408399999999915
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0334083999999999
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0331120378593749
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.03288639375
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0310762752812499
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0306206469249999
-'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.030615666562499914
+'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0306156665624999
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0304773628817514
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
