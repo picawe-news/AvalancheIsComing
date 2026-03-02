@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0869166446105095
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.08108461202398266
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0738471849999999
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0433499999999999
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0426449669223525
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419230200282149
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.041488871855335
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04053225
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
