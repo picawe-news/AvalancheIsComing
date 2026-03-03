@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.3404991020182298
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.34346970580640446
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2695558389354728
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0358557210373547
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0354400369167421
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.03526554107703475
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0352655410770347
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.03497441875
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
