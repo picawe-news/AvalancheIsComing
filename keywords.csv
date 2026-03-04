@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0940270299467005
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0869166446105095
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0810846120239826
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0738471849999999
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.028863875
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.028397139999999915
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
