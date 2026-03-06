@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0804058163035713
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.07402916291893308
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0738471849999999
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.074029162918933
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.06307013724999992
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0558911350631639
