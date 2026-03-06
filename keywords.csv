@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696568102810575
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1692847147700178
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,2,0.1630262140656249
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.1511112006792403
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.1411865644906505
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.13069474557735425
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.1217499726307249
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0940270299467005
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0869166446105095
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.028863875
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0279534346874999
-'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.02787739987946875
+'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0270326411093749
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
