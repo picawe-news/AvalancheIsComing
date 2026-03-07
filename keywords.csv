@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2969038099354437
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2695558389354728
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2954380644587883
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696568102810575
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0270326411093749
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
-'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.023760419484374913
+'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
