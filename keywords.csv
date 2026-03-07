@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0940270299467005
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0814427672928245
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0806643710249429
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0804058163035713
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.07664362338830422
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.0766436233883042
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.074029162918933
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0693950488580356
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
