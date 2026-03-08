@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2954380644587883
-'Lawine',de,Hazard,#4287f5,#022f78,3,0.27777717889967257
+'Lawine',de,Hazard,#4287f5,#022f78,3,0.2777771788996725
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696568102810575
@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0558911350631639
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.04795750980368932
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0426449669223525
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
