@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.074029162918933
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0701264421989008
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.0700982198800585
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0693950488580356
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.060035896529330265
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
