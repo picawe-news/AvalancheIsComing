@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696568102810575
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,2,0.1630262140656249
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.15019790783042872
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1501979078304287
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.1411865644906505
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0600358965293302
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.05208061704993067
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
