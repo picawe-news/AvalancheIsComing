@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.05208061704993067
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0520806170499306
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
-'Eislawine',de,Hazard,#4287f5,#025678,1,0.0301719612499999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
+'Eislawine',de,Hazard,#4287f5,#025678,1,0.025796182062499916
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
