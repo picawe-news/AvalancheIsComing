@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.27652877524451547
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2765287752445154
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2492467402465398
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.113340758740751
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.1036374917361161
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0940270299467005
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.09331623043732742
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0816148953712014
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0701264421989008
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.063074803481093
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
