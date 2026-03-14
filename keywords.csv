@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2954380644587883
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.27652877524451547
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2492467402465398
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0701264421989008
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0693719652203852
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.06307480348109305
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.063074803481093
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
