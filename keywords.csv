@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.113340758740751
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.1036374917361161
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0940270299467005
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.09331623043732742
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0933162304373274
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.08824188297569868
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0816148953712014
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0701264421989008
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
