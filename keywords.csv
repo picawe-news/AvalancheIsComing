@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.113340758740751
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0933162304373274
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0882418829756986
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0816148953712014
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0803730204546954
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.07117284106552119
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.063074803481093
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
