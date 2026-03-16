@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.1411865644906505
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.113340758740751
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.09843985492963836
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0933162304373274
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0882418829756986
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0803730204546954
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.07117284106552119
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0711728410655211
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,3,0.0655946853386821
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.063074803481093
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
