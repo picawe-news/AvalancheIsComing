@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2765287752445154
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2632913151235795
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2577179367097659
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1751755893487499
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.24431098440797586
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1696568102810575
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,2,0.1630262140656249
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1501979078304287
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.04426852449244101
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.044268524492441
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0426449669223525
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0426274999999999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
