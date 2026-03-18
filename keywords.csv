@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.03699829688399962
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.036661363375
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0356961304999999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0352655410770347
@@ -49,13 +49,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0310762752812499
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0307773928817514
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0306273778817514
-'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0306206469249999
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0306156665624999
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0304773628817514
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0304773628817514
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0297282559375
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
+'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.026327579886249914
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
