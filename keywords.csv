@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1402031177242186
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1276684616558644
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.09759676896291983
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0975967689629198
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0933162304373274
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0803730204546954
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0711728410655211
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.018716910479755506
