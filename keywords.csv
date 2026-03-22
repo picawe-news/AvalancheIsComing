@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.2567394239305737
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2451135492186789
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2076645317467794
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,2,0.1630262140656249
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1460084687388989
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.1411865644906505
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.13857229695578116
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1276684616558644
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1191726500655857
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0263275798862499
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.025905758449488687
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
