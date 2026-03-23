@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0557559025378797
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.053613582958929
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.05360961666249991
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0536096166624999
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
@@ -59,17 +59,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999998
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
-'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.02766633125
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0263275798862499
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
+'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.023516381562499997
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
