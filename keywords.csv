@@ -15,13 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0711728410655211
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0688100577431817
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0640322881999422
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0630701372499999
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0591067413335514
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0557559025378797
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.053613582958929
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.05360961666249991
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0486906399230711
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
