@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.3090885462500785
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2765287752445154
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2451135492186789
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.23775744434449492
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.2377574443444949
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2076645317467794
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,3,0.1622286932824365
@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.036661363375
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0352655410770347
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.035005125
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.034929310185
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.030125724915479497
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0297282559375
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
