@@ -21,12 +21,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0551120741879839
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.053613582958929
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0536096166624999
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
-'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.050240730133518686
+'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.04684526305978632
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
