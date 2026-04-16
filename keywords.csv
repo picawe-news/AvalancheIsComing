@@ -44,23 +44,23 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0316805593125
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0313203749999999
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0310762752812499
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0307773928817514
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0306273778817514
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0306156665624999
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.03035441625
-'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.030125724915479497
+'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0301257249154794
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0297282559375
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0297282559375
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0283971399999998
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0270660240624999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0263275798862499
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.026160783949488692
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
