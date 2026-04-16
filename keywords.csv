@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0301257249154794
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.02975435625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0297282559375
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0294176622187499
@@ -61,10 +60,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0263275798862499
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0261607839494886
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0252912028125
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
