@@ -453,7 +453,7 @@ def filterNewAndArchive(articles, language, keyWord):
                     df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
                     # 'locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude'
                     if(not 'locations' in df.columns):
-                      for new in ['locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude']
+                      for new in ['locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude']:
                         df[new] = None
                     if(not 'added' in df.columns):
                       df['added'] = str(dtLastMonth)
