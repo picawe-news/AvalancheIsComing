@@ -165,7 +165,7 @@ def storeCollection():
     global collectedNews
     print("Inside store")
     #cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
-    cols = ['published', 'keyword', 'domain', 'language', 'valid', 'title', 'description', 'url', 'image', 'archive', 'content', 'quote', 'de', 'en', 'la', 'added']
+    cols = ['published', 'keyword', 'domain', 'language', 'valid', 'title', 'description', 'url', 'image', 'archive', 'content', 'quote', 'de', 'en', 'la', 'added', 'locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
@@ -451,6 +451,10 @@ def filterNewAndArchive(articles, language, keyWord):
             if(not fileDate in collectedNews):
                 if(os.path.isfile(DATA_PATH / 'csv' / fileDate)):
                     df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
+                    # 'locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude'
+                    if(not 'locations' in df.columns):
+                      for new in ['locations', 'country', 'ipcc', 'continent', 'latitude', 'longitude']
+                        df[new] = None
                     if(not 'added' in df.columns):
                       df['added'] = str(dtLastMonth)
                     if(not 'la' in df.columns):
