@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.053613582958929
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0536096166624999
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0533500146997504
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.04556817416312491
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0382925
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0270660240624999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0263275798862499
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.026160783949488692
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0261607839494886
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
