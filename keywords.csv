@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.3090885462500785
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,3,0.2818501339578381
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2451135492186789
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.23957328886416238
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.2377574443444949
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2076645317467794
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1652903727124998
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0252912028125
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.025269017546874998
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0252690175468749
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
