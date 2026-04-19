@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0479575098036893
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0455681741631249
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.038732948038656165
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
