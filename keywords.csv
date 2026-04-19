@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.03929252775
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.038732948038656165
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.033776875
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0334083999999999
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.032923005832857684
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.032548625
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0324348583437499
