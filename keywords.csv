@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,3,0.3090885462500785
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2869347404722407
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.24131524326181067
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2413152432618106
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.2377574443444949
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.2076645317467794
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.2307402119847625
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1652903727124998
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,3,0.1622286932824365
