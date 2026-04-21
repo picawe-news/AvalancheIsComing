@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0306273778817514
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0306156665624999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0302740463792307
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0302740463792307
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0301257249154794
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0297282559375
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.02968991365725
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346095
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0258012538124999
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0252690175468749
