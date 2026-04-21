@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0688100577431817
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0640322881999422
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.063968268864353
-'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0624440085102591
+'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.06211897632462933
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.053613582958929
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346095
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0258012538124999
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0252690175468749
