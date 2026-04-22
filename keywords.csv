@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2413152432618106
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.2377574443444949
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.2307402119847625
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1652903727124998
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.18639690680562482
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,3,0.1622286932824365
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1460084687388989
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0235163815624999
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.02223666635706531
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
