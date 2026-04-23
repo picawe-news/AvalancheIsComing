@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0258012538124999
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0252690175468749
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
@@ -73,5 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.021478664914843664
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
