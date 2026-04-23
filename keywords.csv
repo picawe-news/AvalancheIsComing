@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,3,0.1622286932824365
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,3,0.1295555451133422
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.1276684616558644
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.12719223216936307
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.1177864524124139
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1170346966698389
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.1072891366867397
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.1012967525557478
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0933162304373274
