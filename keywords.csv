@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,3,0.2869347404722407
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,2,0.2413152432618106
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,2,0.2377574443444949
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.2307402119847625
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1961292551870481
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1883480836281401
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1863969068056248
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1759138983331359
