@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1961292551870481
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1883480836281401
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1759138983331359
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,2,0.1644044918443896
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.13974404306773114
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.13914217877253
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1352268206670638
