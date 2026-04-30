@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.026928475415625
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0266223187499999
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0259057584494886
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0259057584494886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0258012538124999
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.02201989468206531
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0214786649148436
