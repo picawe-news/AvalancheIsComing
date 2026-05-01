@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.205118166772539
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1961292551870481
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1883480836281401
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1759138983331359
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1550779873664356
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1496768285831655
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1492996333852219
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1352268206670638
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.01825686517761706
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
