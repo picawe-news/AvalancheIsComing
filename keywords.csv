@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1883480836281401
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1759138983331359
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,2,0.1632952471804686
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.15507798736643566
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1550779873664356
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1492996333852219
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1352268206670638
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0214786649148436
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.01825686517761706
