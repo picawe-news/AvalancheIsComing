@@ -5,11 +5,11 @@ Lawinen,Lawinen,ORG,-0.09999999999999998,0.19999999999999996,de,10.0000000000000
 picture alliance,picture alliance,ORG,0.010989010989010973,0.0,de,9.100000000000001
 DWD,DWD,ORG,-0.5043859649122806,0.0,de,7.6000000000000005
 Bergwacht,Bergwacht,ORG,-0.19178082191780818,0.0,de,7.300000000000001
-Hohen Ferse,Hohen Ferse,ORG,-0.10937499999999999,0.0,de,6.4
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.2708333333333333,0.0,de,6.4
+Hohen Ferse,Hohen Ferse,ORG,-0.10937499999999999,0.0,de,6.4
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.49999999999999994,0.0,de,5.6000000000000005
-GEO,GEO,ORG,1.0909090909090908,0.0,de,5.5
 Verband Swiss-Ski,Verband Swiss-Ski,ORG,0.7636363636363637,0.0,de,5.5
+GEO,GEO,ORG,1.0909090909090908,0.0,de,5.5
 lby,lby,ORG,-0.45714285714285724,0.0,de,4.8999999999999995
 Schweizer Snowboard-Legende,Schweizer Snowboard-Legende,ORG,-0.2173913043478261,0.0,de,4.6
 ORF,ORF,ORG,0.20289855072463767,0.0,de,4.6
@@ -17,23 +17,23 @@ Marmolata,Marmolata,ORG,0.717391304347826,0.0,de,4.6
 ei…,ei…,ORG,0.0,0.0,de,4.6
 Bergungskräfte,Bergungskräfte,ORG,-0.14189189189189189,0.2702702702702703,de,3.6999999999999997
 Notfall-SOS-Funktion,Notfall-SOS-Funktion,ORG,0.7297297297297298,0.0,de,3.6999999999999997
-Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,2.8
-österreichische Polizei,österreichische Polizei,ORG,0.0,0.0,de,2.8
-Schneesituation,Schneesituation,ORG,0.25,0.0,de,2.8
-Was Polizei,Was Polizei,ORG,-1.0714285714285714,0.0,de,2.8
-APA,APA,ORG,0.0,0.0,de,2.8
 Otto Dörner Gruppe,Otto Dörner Gruppe,ORG,-0.7142857142857143,0.0,de,2.8
 Schnee!,Schnee!,ORG,0.0,0.0,de,2.8
 Polizei,Polizei,ORG,0.0,0.0,de,2.8
+Was Polizei,Was Polizei,ORG,-1.0714285714285714,0.0,de,2.8
 ÖVP,ÖVP,ORG,0.5,0.0,de,2.8
+APA,APA,ORG,0.0,0.0,de,2.8
+österreichische Polizei,österreichische Polizei,ORG,0.0,0.0,de,2.8
+Schneesituation,Schneesituation,ORG,0.25,0.0,de,2.8
 AT-Alarm,AT-Alarm,ORG,0.0,0.0,de,2.8
+Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,2.8
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.9090909090909091,0.0,de,2.2
-ÖAV,ÖAV,ORG,0.5263157894736842,0.0,de,1.9
 FC Union,FC Union,ORG,0.0,0.0,de,1.9
+ÖAV,ÖAV,ORG,0.5263157894736842,0.0,de,1.9
 österreichischen Polizei der Deutschen Presse-A…,österreichischen Polizei der Deutschen Presse-A…,ORG,0.0,0.0,de,1.9
-Innsbruck  ,Innsbruck  ,ORG,0.3684210526315789,0.2631578947368421,de,1.9
-…,…,ORG,0.0,0.0,de,1.9
 H…,H…,ORG,0.18421052631578946,0.2631578947368421,de,1.9
+…,…,ORG,0.0,0.0,de,1.9
+Innsbruck  ,Innsbruck  ,ORG,0.3684210526315789,0.2631578947368421,de,1.9
 Hannover 96,Hannover 96,ORG,-0.9736842105263159,0.0,de,1.9
 plötzli…,plötzli…,ORG,0.0,0.0,de,1.9
 Shannan…,Shannan…,ORG,-0.7368421052631579,0.0,de,1.9
@@ -50,16 +50,16 @@ italienische …,italienische …,ORG,0.0,0.0,de,1.9
 "Dänemark
 +++Keine","Dänemark
 +++Keine",ORG,0.0,0.0,de,1.9
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.9
 Lawine e,Lawine e,ORG,0.0,0.0,de,1.9
-hi…,hi…,ORG,-0.3684210526315789,0.0,de,1.9
 Alpenregion Valtellina,Alpenregion Valtellina,ORG,0.0,0.0,de,1.9
+hi…,hi…,ORG,-0.3684210526315789,0.0,de,1.9
+Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1.9
 "Berlin
 +++Angriff","Berlin
 +++Angriff",ORG,1.1764705882352942,0.0,de,1.7
 Borussia Dortmund,Borussia Dortmund,ORG,-0.7692307692307692,0.0,de,1.3
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.3
 Bundesliga,Bundesliga,ORG,-0.7692307692307692,0.0,de,1.3
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.3
 TU München,TU München,ORG,1.1666666666666667,0.0,de,1.2
 bef…,bef…,ORG,0.0,0.0,de,1.0
 Landesleiter …,Landesleiter …,ORG,0.7,0.0,de,1.0
