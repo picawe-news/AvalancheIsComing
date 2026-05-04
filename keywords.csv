@@ -62,9 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0244037921875
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0242875839999998
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.024137568999999914
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0241375689999999
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
-'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0235163815624999
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0230061204531249
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
+'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.019988924328124914
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
