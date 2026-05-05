@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0455715455150896
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0454980224947878
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.03873581368782616
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0279845549579289
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.02766633125
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.027569629592187415
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0275696295921874
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0270660240624999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.026928475415625
