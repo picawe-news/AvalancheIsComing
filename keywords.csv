@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0339304062499999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0333986485874999
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0324348583437499
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0310762752812499
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0306273778817514
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0306156665624999
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0279845549579289
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.02766633125
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.027569629592187415
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0270660240624999
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.026928475415625
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
-'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.019988924328124914
+'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0199889243281249
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
