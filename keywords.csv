@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0266223187499999
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346
-'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0258012538124999
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0256068661781574
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
+'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.021931065740624915
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0199889243281249
