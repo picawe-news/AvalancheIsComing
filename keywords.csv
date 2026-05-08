@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.066360738242744
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0640322881999422
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.063968268864353
-'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0621189763246293
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
+'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.05280129487593491
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.026928475415625
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0266223187499999
-'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.026023316578124914
+'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0260233165781249
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.025882954422346
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
