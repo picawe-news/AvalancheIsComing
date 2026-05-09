@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.2525149114156817
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.205118166772539
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1961292551870481
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1773763652925148
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1719072662888975
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1694639442865295
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1667098669089909
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1628450706900417
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.160995961083919
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.1388009601033983
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0256068661781574
-'Felslawine',de,Hazard,#4287f5,#026678,1,0.025236426608662498
+'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0244037921875
