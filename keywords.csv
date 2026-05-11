@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.2525149114156817
+'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.21658786970332944
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.205118166772539
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1773763652925148
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1719072662888975
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.063968268864353
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.052877537938803724
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0528775379388037
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0528012948759349
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
