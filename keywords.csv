@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0454980224947878
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.04494590724798314
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0449459072479831
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0387358136878261
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
@@ -73,5 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0199889243281249
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0195552023851561
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0187169104797555
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.015909373907792172
