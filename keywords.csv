@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.1388009601033983
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.108419036401337
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0922404635463619
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.09215619594113646
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.085100711867969
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0688100577431817
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0676760019909689
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.026928475415625
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0266223187499999
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.02603327119948869
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0260332711994886
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0260233165781249
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
