@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0333986485874999
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.032925441634652185
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0329254416346521
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0311621588687499
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.02975435625
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0270082323374999
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0264148339890624
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0260332711994886
-'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0260233165781249
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.025732939422346
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0226289709374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
+'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.022119819091406163
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
