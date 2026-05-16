@@ -26,11 +26,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0449459072479831
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0387358136878261
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0333986485874999
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.032925441634652185
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0311621588687499
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.02975435625
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0228892041032812
-'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.022628970937499916
+'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0226289709374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
