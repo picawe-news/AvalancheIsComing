@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.03820402116078563
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0382040211607856
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
@@ -60,12 +60,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0228892041032812
-'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0226289709374999
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0219310657406249
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
@@ -73,5 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0199889243281249
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0195552023851561
+'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.019234625296874915
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
