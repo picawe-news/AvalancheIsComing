@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.02975435625
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0288408453124999
-'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0279845549579289
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.02766633125
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0275696295921874
@@ -56,9 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0242875839999998
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0241375689999999
+'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.023786871714239564
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
-'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.022956997486874915
+'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0229569974868749
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0228892041032812
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
