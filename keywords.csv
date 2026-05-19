@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.1388009601033983
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1385683250865354
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1229927552470175
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.10469385695996487
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0784043940144076
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.07833276654996595
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0783327665499659
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0723356050877736
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0676760019909689
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.066360738242744
