@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,2,0.137894569290071
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1229927552470175
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0921561959411364
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0784043940144076
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.07833276654996595
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0723356050877736
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0676760019909689
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.066360738242744
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0242875839999998
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0237868717142395
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
-'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.023516381562499997
+'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0235163815624999
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0229569974868749
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0228892041032812
