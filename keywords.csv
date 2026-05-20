@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0676760019909689
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0666437349122464
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.066360738242744
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0640322881999422
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.063968268864353
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.06148526432460756
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0614852643246075
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0605075658690656
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0584885490817044
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0581506321974927
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.05442744496995086
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0528012948759349
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
