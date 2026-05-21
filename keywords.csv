@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.21184976424782997
+'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.2118497642478299
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1743504417566581
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.1719072662888975
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1667098669089909
@@ -25,13 +25,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0502407301335186
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0468452630597863
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.0382040211607856
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0333986485874999
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0329254416346521
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.03247341798666776
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0311621588687499
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.02975435625
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
