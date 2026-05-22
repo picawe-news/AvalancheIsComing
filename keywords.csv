@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1385683250865354
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.1172103838965603
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.1046938569599648
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.1002836936747052
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.08898977841597008
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0783327665499659
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0676760019909689
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.063968268864353
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.021478664914843664
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0205169336499999
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0195552023851561
