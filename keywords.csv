@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1667098669089909
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1648203154986375
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1385683250865354
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.13684656692133115
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1368465669213311
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.1172103838965603
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.08898977841597
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0250050128859374
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0244037921875
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.024403792187499995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0243638587093749
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0242875839999998
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0237868717142395
