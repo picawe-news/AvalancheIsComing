@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0257961820624999
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.025732939422346
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0256068661781574
-'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0252912028125
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0250050128859374
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0250050128859374
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
+'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0205169336499999
