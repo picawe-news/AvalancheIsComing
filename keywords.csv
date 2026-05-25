@@ -32,12 +32,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0329254416346521
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0324734179866677
-'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0311621588687499
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0294176622187499
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0288408453124999
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0275696295921874
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0270660240624999
+'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.026487835038437414
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0264148339890624
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0260332711994886
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0259057584494886
