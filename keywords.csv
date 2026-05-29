@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,2,0.1874124896759163
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1648203154986375
-'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.1544265911690571
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1481978754931593
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1417033868726422
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1368465669213311
+'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.13186266249369855
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1180831063235551
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.1172103838965603
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.10557254990966905
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.105572549909669
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0852411396234994
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0783327665499659
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0756413116535745
