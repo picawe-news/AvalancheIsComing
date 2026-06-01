@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.2514695968831314
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1648203154986375
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1417033868726422
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.13600563479084948
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.1360056347908494
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.1318626624936985
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1070729650438075
@@ -73,5 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0174393936024999
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
-'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0158451949976014
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0144419978270701
+'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.01346841574796119
