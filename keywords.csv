@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0756413116535745
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.066582851567471
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0581506321974927
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.05767461669232357
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0576746166923235
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0575927871571977
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0566471746754094
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0564066275063323
@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0235163815624999
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0229569974868749
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0228892041032812
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0223784429033124
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0222366663570653
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
@@ -62,12 +61,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0218729985089941
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0217415603124999
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0202188409571035
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0195552023851561
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.019455823487789018
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0192346252968749
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
