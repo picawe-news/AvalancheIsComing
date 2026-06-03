@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0455956152844817
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0376282458185748
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0369982968839996
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0329254416346521
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.032834193125
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.03249865735139967
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0324734179866677
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0288408453124999
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0283888512993749
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.021254260953046788
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0212542609530467
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0207432233593749
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0202188409571035
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
