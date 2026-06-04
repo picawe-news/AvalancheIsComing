@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1070729650438075
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.105572549909669
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.10238069701548393
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1023806970154839
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1006706703750218
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0852411396234994
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0846845023652647
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0756413116535745
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.071981827010475
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.066582851567471
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0581506321974927
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0576746166923235
