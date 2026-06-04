@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,2,0.2514695968831314
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1648203154986375
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.1360056347908494
-'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.1318626624936985
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
+'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.11268332311964371
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.1070729650438075
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.105572549909669
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1023806970154839
