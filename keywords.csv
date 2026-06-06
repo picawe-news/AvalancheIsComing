@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0250050128859374
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0250050128859374
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.02453429375
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0242875839999998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0237604194843749
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0235163815624999
@@ -62,8 +61,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0212542609530467
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.020854149687499997
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0207432233593749
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.020709279902968666
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0202188409571035
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.019455823487789
