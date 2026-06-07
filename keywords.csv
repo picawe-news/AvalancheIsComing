@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.105572549909669
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.1006706703750218
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0963808846516971
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0852411396234994
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0756413116535745
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0739700535936871
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.07245496867997449
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.071981827010475
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.066582851567471
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0581506321974927
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
-'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.012275698153009584
+'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0122756981530095
