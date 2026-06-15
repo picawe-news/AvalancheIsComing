@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0564066275063323
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0558927569588988
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0543730285347
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.05234871487128147
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0523487148712814
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0514314309887057
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.049853959083618
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0497152667194487
@@ -66,12 +66,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0202188409571035
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0201963565617186
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.019455823487789
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0192346252968749
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0174393936024999
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.01653744996462065
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0122756981530095
