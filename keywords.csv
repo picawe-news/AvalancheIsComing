@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.1162048495722219
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0963808846516971
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0858700998187685
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,3,0.076357138237434
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0762761673097358
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0739700535936871
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.07328961484595323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.071981827010475
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.066582851567471
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0642951149055383
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0260332711994886
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0250050128859374
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.024514718515624916
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0245147185156249
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0229569974868749
