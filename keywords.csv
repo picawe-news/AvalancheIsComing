@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0739700535936871
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0732896148459532
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.071981827010475
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.066582851567471
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0642951149055383
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.05659542383235035
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0564066275063323
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0543730285347
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0514314309887057
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0230061204531249
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.022128280519565308
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0221282805195653
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0220767697531249
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
