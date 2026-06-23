@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.154692179773353
-'Lawine',de,Hazard,#4287f5,#022f78,2,0.12578620713067074
+'Lawine',de,Hazard,#4287f5,#022f78,2,0.1257862071306707
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.1162048495722219
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.1152428275670042
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0963808846516971
@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0276024052886675
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0264878350384374
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0250050128859374
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0245147185156249
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0230061204531249
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.021254260953046788
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0208541496874999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0207432233593749
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
