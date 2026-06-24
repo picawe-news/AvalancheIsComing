@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0739700535936871
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0732896148459532
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.071981827010475
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.06490419750181889
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0649041975018188
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0642951149055383
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0565954238323503
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0564066275063323
@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0220767697531249
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0220005112589941
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0217658362514337
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0190216764678155
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.018700434570144985
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0184803262656249
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
