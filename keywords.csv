@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0264878350384374
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0245147185156249
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.023462044495367373
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0234620444953673
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0221282805195653
@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0184803262656249
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0180661218100896
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.01535620353857616
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
