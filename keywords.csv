@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0212542609530467
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0208541496874999
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0207432233593749
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0206444463999998
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0184803262656249
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.017726027234374914
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0171860148135379
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
-'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.014098466081626949
+'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
