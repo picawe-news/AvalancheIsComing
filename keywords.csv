@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0207432233593749
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0206444463999998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0201963565617186
@@ -60,9 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0184803262656249
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0177260272343749
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.017631739855468665
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0171860148135379
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
