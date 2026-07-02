@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0392063179918094
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0388266101531834
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.03357526964217091
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0335752696421709
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0329254416346521
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0324986573513996
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0319840089457885
@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0221282805195653
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0220198946820653
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0217658362514337
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.018716910479755506
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
