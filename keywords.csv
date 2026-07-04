@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419474383102036
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0409275837029832
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.040890193718873
-'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.04038251690280432
+'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0403825169028043
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0398184736008183
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0392063179918094
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0388266101531834
@@ -38,10 +38,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0221282805195653
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0220198946820653
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0217658362514337
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.021497522390625
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0208375107382811
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.018716910479755506
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0187169104797555
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
