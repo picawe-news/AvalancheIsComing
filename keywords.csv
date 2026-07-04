@@ -51,8 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.018716910479755506
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0187169104797555
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
@@ -64,10 +63,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0176317398554686
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0171860148135379
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0169905856789061
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.015909373907792172
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
