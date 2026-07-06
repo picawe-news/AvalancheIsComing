@@ -45,11 +45,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0206444463999998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0201963565617186
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.0199427378210622
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.018809038441630507
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0176317398554686
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0171860148135379
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0169905856789061
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.01695132714790287
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
