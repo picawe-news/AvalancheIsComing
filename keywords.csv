@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,2,0.1257862071306707
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0979564034319535
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.08326294291716047
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0808424126296887
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0732896148459532
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0701902446608511
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0184803262656249
-'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.01827289403203125
+'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.018256865177617
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
