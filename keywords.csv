@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0642951149055383
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.062874545554634
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0609360416426345
-'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0564066275063323
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0525619255150681
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.049853959083618
+'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.047945633380382456
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.046217074254495
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0437167163403998
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0422579767115314
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0208375107382811
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0206444463999998
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.02051094506379831
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0201963565617186
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
