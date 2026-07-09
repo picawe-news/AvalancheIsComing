@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0648347422132754
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.062874545554634
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0609360416426345
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.05465084766970755
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0525619255150681
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.049853959083618
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0479456333803824
@@ -66,12 +66,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0159093739077921
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0146081125915072
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.013897016776992
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.013522967821623284
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
