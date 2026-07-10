@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0252364266086624
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
-'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0229777449429686
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0225146597826717
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0217658362514337
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
+'Grundlawine',de,Hazard,#4287f5,#024678,1,0.01953108320152331
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0177260272343749
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0176317398554686
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0175477794399998
-'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.01716690307746081
+'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0171669030774608
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0169905856789061
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
