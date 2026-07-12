@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawine',de,Hazard,#4287f5,#022f78,2,0.1257862071306707
+'Lawine',de,Hazard,#4287f5,#022f78,1,0.10691871106107009
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.1014254302930379
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0832629429171604
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0808424126296887
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.014986978877148309
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0149869788771483
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0146081125915072
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
