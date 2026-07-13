@@ -1,10 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Ueli Kestenholz,Ueli Kestenholz,PER,-0.08849557522123896,0.0,de,22.599999999999994
 Peter Jacksons,Peter Jacksons,PER,1.0810810810810811,0.0,de,3.6999999999999997
+Stefan Winter,Stefan Winter,PER,0.0,0.0,de,2.9
 Ares Masip,Ares Masip,PER,0.125,0.17857142857142858,de,2.8
 Felix Freiherr zu Knyphausen,Felix Freiherr zu Knyphausen,PER,0.0,0.0,de,2.8
 Astrid Mair,Astrid Mair,PER,0.5,0.0,de,2.8
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,2.8
 Hans Ebner,Hans Ebner,PER,0.125,0.8928571428571429,de,2.8
 Enno Simonis,Enno Simonis,PER,-0.7142857142857143,0.0,de,2.8
 Geoff Keighley,Geoff Keighley,PER,-0.5535714285714285,0.0,de,2.8
