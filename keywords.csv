@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0208375107382811
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0207092799029686
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0195310832015233
@@ -46,8 +45,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0185920487326449
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0177260272343749
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.01760288791752331
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0175477794399998
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0169905856789061
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.013897016776992
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.013522967821623284
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
