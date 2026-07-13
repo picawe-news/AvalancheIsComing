@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0324986573513996
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0319840089457885
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.030854088393247
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.029543164961885696
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0295431649618856
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0279866253894542
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.02790906415625
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0278773998794687
@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0159093739077921
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0149869788771483
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.013897016776992
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.013522967821623284
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
