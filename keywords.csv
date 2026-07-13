@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.015067123149218665
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0149869788771483
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0146081125915072
@@ -74,4 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.01280705467683581
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
