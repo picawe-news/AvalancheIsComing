@@ -10,10 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.055109530881284
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0525619255150681
-'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.05179563539623932
+'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0517956353962393
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.049853959083618
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.046217074254495
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0437167163403998
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0419474383102036
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0409275837029832
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.040753788373325
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0388266101531834
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0378219464945007
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.03715920888933983
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0335752696421709
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0324986573513996
