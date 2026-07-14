@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0195310832015233
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0190847175570975
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
@@ -60,9 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.016372024923532874
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.015518335400974451
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0155183354009744
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0149869788771483
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0148234845621249
