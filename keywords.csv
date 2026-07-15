@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.10691871106107
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.1014254302930379
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0832629429171604
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0808424126296887
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0701902446608511
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0687160507352354
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0649041975018188
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.062874545554634
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0163720249235328
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
-'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.015803241422748165
+'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0158032414227481
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0155183354009744
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
