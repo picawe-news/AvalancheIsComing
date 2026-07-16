@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.10691871106107
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.1014254302930379
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0832629429171604
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.07077350147958633
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0701902446608511
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0687160507352354
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0649041975018188
@@ -73,5 +73,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0128070546768358
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.012599961877806164
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0125999618778061
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
