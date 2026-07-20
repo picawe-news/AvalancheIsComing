@@ -29,9 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0279866253894542
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.02790906415625
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
-'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.0236957898975483
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.02310844646333217
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0231084464633321
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0225146597826717
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.021450962617363
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0208375107382811
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
+'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916055
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0195310832015233
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
