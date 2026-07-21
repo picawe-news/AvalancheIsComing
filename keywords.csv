@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0195310832015233
-'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.019137460815270946
+'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0163720249235328
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0158032414227481
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0146081125915072
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.01406623618500288
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
