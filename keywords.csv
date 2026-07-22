@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.035655322563673
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0346407201173262
-'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.03384570256069555
+'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0338457025606955
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0335752696421709
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0324986573513996
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0321486545203255
@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.021450962617363
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0208375107382811
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0196193178028124
@@ -44,13 +43,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0187652542901561
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0180661218100896
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.017711884127538935
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0176028879175233
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0175477794399998
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0169905856789061
