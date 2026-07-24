@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0295431649618856
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0279866253894542
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.02790906415625
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.027326356342276672
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0273263563422766
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0231084464633321
@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0128070546768358
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0125999618778061
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0118124642604432
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.010885996475310428
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0108280922387395
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
