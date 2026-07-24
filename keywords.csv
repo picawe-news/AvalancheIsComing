@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0701902446608511
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0649041975018188
-'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.062874545554634
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
+'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.053443363721438895
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0525619255150681
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0423758652210752
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0388266101531834
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0125999618778061
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0118124642604432
-'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.010885996475310428
+'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0108280922387395
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.010434343430058
