@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0525619255150681
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.04467763668780789
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,2,0.0388266101531834
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0374223465737828
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0372629575493749
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0146081125915072
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
-'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.014441997827070185
+'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0144419978270701
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0140662361850028
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
