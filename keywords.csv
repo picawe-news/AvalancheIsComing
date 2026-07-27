@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0866616607490822
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0701902446608511
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0649041975018188
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.06421036196745508
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0155183354009744
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.01535620353857616
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
