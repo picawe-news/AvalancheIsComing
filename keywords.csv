@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1262086731249501
-'Lawine',de,Hazard,#4287f5,#022f78,1,0.113519235991623
+'Lawine',de,Hazard,#4287f5,#022f78,1,0.09904162059287955
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0866616607490822
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.064210361967455
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0134684157479611
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0134327552093358
-'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.01319058509082824
+'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0131905850908282
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0125999618778061
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0118124642604432
