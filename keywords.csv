@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1262086731249501
-'Lawine',de,Hazard,#4287f5,#022f78,1,0.0990416205928795
+'Lawine',de,Hazard,#4287f5,#022f78,1,0.08673564750394758
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0866616607490822
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.064210361967455
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0604117829617234
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.037975991184636626
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0379759911846366
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0371592088893398
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0361695004379139
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
