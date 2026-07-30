@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0604117829617234
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0446776366878078
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.037975991184636626
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0371592088893398
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0361695004379139
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0273263563422766
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.027037645399558
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.023788631581036068
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.023788631581036
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0231084464633321
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
