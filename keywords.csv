@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,2,0.1550690723803553
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1262086731249501
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.0867356475039475
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0866616607490822
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.01825686517761706
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.018256865177617
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0182333182247585
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0177118841275389
