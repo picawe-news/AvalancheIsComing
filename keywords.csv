@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,2,0.1550690723803553
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1262086731249501
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.0867356475039475
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0866616607490822
@@ -19,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0333918361488725
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0330026336302058
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0324986573513996
-'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.03227959250694111
+'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0322795925069411
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0316735139169686
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0295701792254053
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0295431649618856
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.027037645399558
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.023788631581036
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0234341851533592
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0231084464633321
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
