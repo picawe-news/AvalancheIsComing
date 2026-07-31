@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0231084464633321
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0214786649148436
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0205109450637983
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.01825686517761706
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0182333182247585
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0177118841275389
