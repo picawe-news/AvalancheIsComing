@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0556294076723367
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0546508476697075
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0525501355174648
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.046453220519251374
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0371592088893398
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0361695004379139
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0159504661466326
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.015895369384623163
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
