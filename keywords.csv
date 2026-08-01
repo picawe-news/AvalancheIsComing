@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.1262086731249501
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.0867356475039475
-'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.07381242663671987
+'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0738124266367198
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0556294076723367
@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0187004345701449
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.018256865177617
@@ -50,12 +49,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0176028879175233
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0166764201323905
-'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0166219220273826
+'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0166014207212948
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0161684249976431
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0159504661466326
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.015895369384623163
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
