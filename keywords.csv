@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0556294076723367
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0525501355174648
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.046453220519251374
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0464532205192513
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0371592088893398
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0361695004379139
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.018256865177617
-'Felslawine',de,Hazard,#4287f5,#026678,1,0.0182333182247585
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0177118841275389
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0176028879175233
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0159504661466326
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
+'Felslawine',de,Hazard,#4287f5,#026678,1,0.015498320491044723
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
