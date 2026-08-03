@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.018256865177617
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0180661218100896
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0176028879175233
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.017584318304228554
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0166764201323905
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
@@ -56,8 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0154983204910447
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.015096685558594225
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.015055101508408
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
