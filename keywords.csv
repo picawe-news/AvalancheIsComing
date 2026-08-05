@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0738124266367198
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0707735014795863
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0624461876190602
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0556294076723367
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.06033567152148619
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0525501355174648
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0464532205192513
@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.019642179493832283
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0196421794938322
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
