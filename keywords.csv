@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0603356715214861
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0601574762576483
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0534433637214388
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.053079259476201165
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0530792594762011
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0525501355174648
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0464532205192513
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.03963525244136361
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0371592088893398
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0361695004379139
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0359192802048016
