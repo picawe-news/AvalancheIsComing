@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.027037645399558
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.023788631581036
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.023227402890935108
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0232274028909351
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0189011664035055
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0187169104797555
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0187169104797555
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0166014207212948
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0159504661466326
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.015909373907792172
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0154983204910447
