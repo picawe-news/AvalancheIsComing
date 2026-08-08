@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.030307024179122
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.028823978748689656
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0288239787486896
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0287688471765911
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0287675195545981
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.02790906415625
@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
-'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0118124642604432
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0108280922387395
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
+'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.010040594621376719
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
