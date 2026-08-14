@@ -38,16 +38,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.018256865177617
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0166014207212948
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0160659914429796
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0159093739077921
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0159093739077921
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.015518335400974451
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0154983204910447
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
-'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.011448153385766935
+'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0114481533857669
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
