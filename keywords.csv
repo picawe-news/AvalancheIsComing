@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1363724644349623
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.1358769041632229
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.09174082183277638
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0917408218327763
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0603356715214861
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
@@ -30,13 +30,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0250279202847681
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0232274028909351
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.021497522390625
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0202203368438806
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0196421794938322
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.01827289403203125
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
