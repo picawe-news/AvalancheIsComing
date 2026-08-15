@@ -32,13 +32,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0202203368438806
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0196421794938322
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0188090384416305
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.01827289403203125
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.01669585256975737
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0166014207212948
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
