@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0278876986308999
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.027037645399558
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0268475284225479
-'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.02668751956639278
+'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0266875195663927
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0250279202847681
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0232274028909351
@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.015055101508408
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0149624547298948
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0141749571125319
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0134327552093358
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0131905850908282
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.01271808652041058
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
