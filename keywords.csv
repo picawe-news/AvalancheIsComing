@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.1358769041632229
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0917408218327763
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0739890241958452
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.06334071556646842
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0603356715214861
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0134327552093358
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0131905850908282
-'Felslawine',de,Hazard,#4287f5,#026678,1,0.013173572417387994
+'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
