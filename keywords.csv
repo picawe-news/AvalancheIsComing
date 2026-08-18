@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0158953693846231
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0155183354009744
-'Felslawine',de,Hazard,#4287f5,#026678,1,0.0154983204910447
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
@@ -60,12 +59,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
-'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
+'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0135229678216232
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0134327552093358
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0131905850908282
+'Felslawine',de,Hazard,#4287f5,#026678,1,0.013173572417387994
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.01271808652041058
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
