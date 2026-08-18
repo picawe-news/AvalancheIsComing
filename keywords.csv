@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.1358769041632229
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0917408218327763
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.06334071556646842
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0633407155664684
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0603356715214861
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0171872863172985
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0169513271479028
-'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0166958525697573
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0160659914429796
@@ -48,11 +47,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0155183354009744
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.015055101508408
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
+'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.014191474684293706
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0141749571125319
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
