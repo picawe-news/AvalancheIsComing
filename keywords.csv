@@ -5,18 +5,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,2,0.1358769041632229
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0917408218327763
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.07669058624780864
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0766905862478086
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0633407155664684
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0461018836832755
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0451173705547709
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.033839979575159
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0330026336302058
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0316735139169686
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.030307024179122
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.02891399763888515
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0288239787486896
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0287688471765911
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0287675195545981
