@@ -7,13 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0917408218327763
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0766905862478086
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.05428965323149815
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0461018836832755
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0451173705547709
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0316735139169686
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
-'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.030307024179122
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0289139976388851
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0288239787486896
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0268475284225479
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0266875195663927
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
+'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0257609705522537
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0250279202847681
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0232274028909351
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
