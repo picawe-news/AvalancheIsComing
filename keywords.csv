@@ -35,20 +35,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0171872863172985
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0160659914429796
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0159876826753859
-'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0159093739077921
+'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0155183354009744
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0153562035385761
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.015055101508408
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.014609193369703724
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0145918676158416
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0144086280757173
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0141914746842937
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.013511063976929635
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
