@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
-'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0461018836832755
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0451173705547709
+'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.03993667613078418
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0288239787486896
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
-'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.012403087473465359
+'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0124030874734653
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0114945226483797
