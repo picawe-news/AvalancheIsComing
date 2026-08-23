@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0247269129930523
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.019743292457294837
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0197432924572948
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0153562035385761
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.015055101508408
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0146091933697037
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0144086280757173
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0141914746842937
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0141749571125319
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.012417814364248145
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0124168957027811
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0124030874734653
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
