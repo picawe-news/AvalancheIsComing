@@ -12,7 +12,7 @@ italienischen,italienischen,MISC,,,de,22.099999999999994
 österreichischen,österreichischen,MISC,,,de,20.799999999999997
 deutschen,deutschen,MISC,,,de,16.400000000000002
 europäischen,europäischen,MISC,,,de,16.300000000000004
-Temperaturanstieg,Temperaturanstieg,MISC,,,de,13.100000000000003
+Temperaturanstieg,Temperaturanstieg,MISC,,,de,15.800000000000004
 deutscher,deutscher,MISC,,,de,12.700000000000003
 italienische,italienische,MISC,,,de,8.5
 Deutschen,Deutschen,MISC,,,de,7.700000000000001
@@ -75,7 +75,7 @@ Bundesliga-Absage,Bundesliga-Absage,MISC,,,de,1.9
 Urmenschliches,Urmenschliches,MISC,,,de,1.9
 Euregio-Lawinenreport,Euregio-Lawinenreport,MISC,,,de,1.9
 Karfreitag,Karfreitag,MISC,,,de,1.9
-Lawinen“,Lawinen“,MISC,,,de,1.9
+Toten,Toten,MISC,,,de,1.9
 Hause,Hause,MISC,-0.85,0.0,de,1.9
 Kurses,Kurses,MISC,,,de,1.9
 To…,To…,MISC,,,de,1.9
@@ -84,7 +84,7 @@ nan,nan,MISC,0.0,0.0,de,1.9
 imageBROKER,imageBROKER,MISC,,,de,1.9
 n…,n…,MISC,,,de,1.9
 Todesopfer nach Lawine,Todesopfer nach Lawine,MISC,,,de,1.9
-Toten,Toten,MISC,,,de,1.9
+Lawinen“,Lawinen“,MISC,,,de,1.9
 Todesopfer in diesem Winter,Todesopfer in diesem Winter,MISC,,,de,1.9
 Decide before you ride“,Decide before you ride“,MISC,,,de,1.9
 Unglücke“,Unglücke“,MISC,,,de,1.9
@@ -103,8 +103,8 @@ Todesopfer in Österreich,Todesopfer in Österreich,MISC,,,de,1.9
 Himalaya“,Himalaya“,MISC,,,de,1.9
 DFB-Team,DFB-Team,MISC,,,de,1.9
 Lawi…,Lawi…,MISC,,,de,1.9
-iPhones,iPhones,MISC,,,de,1.9
 Unglücksstelle,Unglücksstelle,MISC,,,de,1.9
+iPhones,iPhones,MISC,,,de,1.9
 ukrainischen,ukrainischen,MISC,,,de,1.9
 Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.9
 Winterwetter“,Winterwetter“,MISC,,,de,1.9
@@ -123,9 +123,9 @@ Näh…,Näh…,MISC,0.0,0.0,de,1.0
 SOS-Funktion,SOS-Funktion,MISC,,,de,1.0
 Deutsche sterben bei Lawinenabgängen,Deutsche sterben bei Lawinenabgängen,MISC,,,de,1.0
 Sucheinsätze,Sucheinsätze,MISC,,,de,1.0
+Sechs Skifahrer,Sechs Skifahrer,MISC,,,de,1.0
 Lawinenstufe 4,Lawinenstufe 4,MISC,,,de,1.0
 Vorsicht ist gebote…,Vorsicht ist gebote…,MISC,,,de,1.0
-Sechs Skifahrer,Sechs Skifahrer,MISC,,,de,1.0
 Lawinen-Rettung,Lawinen-Rettung,MISC,,,de,1.0
 deutsches,deutsches,MISC,,,de,1.0
 steirische,steirische,MISC,,,de,1.0
@@ -212,7 +212,7 @@ Summer Game Fest,Summer Game Fest,MISC,,,de,1.0
 Summer Game,Summer Game,MISC,,,de,1.0
 hessische,hessische,MISC,,,de,1.0
 Eine wirklich höllische Welt,Eine wirklich höllische Welt,MISC,,,de,1.0
-"Eine wirklich höllische Welt""","Eine wirklich höllische Welt""",MISC,,,de,1.0
+Trias,Trias,MISC,,,de,1.0
 Ausnahme-Alpinisten,Ausnahme-Alpinisten,MISC,,,de,1.0
 Zwei junge Menschen,Zwei junge Menschen,MISC,,,de,1.0
 Das Bild meiner toten Tochter,Das Bild meiner toten Tochter,MISC,,,de,1.0
@@ -224,9 +224,7 @@ Netflix-Bergsteiger,Netflix-Bergsteiger,MISC,,,de,1.0
 Usain Bolt,Usain Bolt,MISC,,,de,1.0
 X“,X“,MISC,,,de,1.0
 britischen,britischen,MISC,,,de,1.0
-"Europa
-","Europa
-",MISC,,,de,1.0
+Mark Garlick7dpa,Mark Garlick7dpa,MISC,,,de,1.0
 nepalesische,nepalesische,MISC,,,de,1.0
 Hause“,Hause“,MISC,,,de,1.0
 Der Tod des Mannes,Der Tod des Mannes,MISC,,,de,1.0
@@ -257,8 +255,8 @@ z…,z…,MISC,,,de,1.0
 New Yo...,New Yo...,MISC,,,de,1.0
 Wintersaison,Wintersaison,MISC,0.0,0.0,de,1.0
 Resümee,Resümee,MISC,,,de,1.0
-Österreich“,Österreich“,MISC,,,de,1.0
 Schneeschuh-Wanderer,Schneeschuh-Wanderer,MISC,,,de,1.0
+Österreich“,Österreich“,MISC,,,de,1.0
 Bergrettungsortsstellen Tamswe…,Bergrettungsortsstellen Tamswe…,MISC,,,de,1.0
 05.03.2026,05.03.2026,MISC,,,de,1.0
 Olympischen Spiel…,Olympischen Spiel…,MISC,,,de,1.0
