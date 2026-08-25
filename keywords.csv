@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0166219220273826
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0160659914429796
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0159876826753859
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0159093739077921
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0157082773257811
@@ -53,11 +52,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.013589530274078014
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.013052773007789684
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0130527730077896
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0124178143642481
