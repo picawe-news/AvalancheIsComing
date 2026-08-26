@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.054867885189845
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0451173705547709
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.03834976497155526
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0346962497111664
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.007823296642489225
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0078232966424892
