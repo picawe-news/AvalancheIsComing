@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,2,0.1363724644349623
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0779796985578598
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0766905862478086
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0666876433106373
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0485878974113682
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.013589530274078
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.013522967821623284
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0135229678216232
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
