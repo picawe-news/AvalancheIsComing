@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.013589530274078
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0135229678216232
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0120487135456521
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0115511007329663
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0114945226483797
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0114178419279354
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
