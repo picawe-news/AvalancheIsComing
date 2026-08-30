@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0666876433106373
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
-'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0485878974113682
+'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.04294987779966297
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0383497649715552
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0346962497111664
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0135229678216232
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.013052773007789684
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0130527730077896
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0130527730077896
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
