@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0779796985578598
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0666876433106373
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.051133854819001
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.04346377659615085
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0429498777996629
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0383497649715552
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0346962497111664
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0124178143642481
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0124030874734653
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
-'Staublawine',de,Hazard,#4287f5,#023678,1,0.012247333864359704
+'Staublawine',de,Hazard,#4287f5,#023678,1,0.0122473338643597
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0120487135456521
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0115511007329663
