@@ -27,10 +27,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0247269129930523
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0244535201001024
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0241545888362649
-'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0228344066314337
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0197432924572948
+'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.01970927563671864
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0115511007329663
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0114945226483797
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0114178419279354
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.01109485705662116
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0110948570566211
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
