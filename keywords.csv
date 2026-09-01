@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0131735724173879
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0130527730077896
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0130527730077896
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0124178143642481
@@ -63,10 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0122473338643597
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0120487135456521
-'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.01200933866478392
+'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0120093386647839
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0115511007329663
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0114945226483797
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0114178419279354
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.01109485705662116
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
