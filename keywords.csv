@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0429498777996629
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0383497649715552
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0346962497111664
-'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0305313881740813
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.029176368462276
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0283830607265416
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
@@ -20,7 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0269224868294233
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0268475284225479
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.026150546936386156
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0261505469363861
+'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.025951679947969104
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0257609705522537
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0250279202847681
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0247269129930523
