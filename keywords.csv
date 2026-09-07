@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,2,0.1604346823415945
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1368036165079284
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.131808726523302
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.1159166097697179
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.09852911830426021
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0666876433106373
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0662827437741808
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0102414065138042
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
-'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.009818435623021355
+'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0097703442511227
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.009705165638745
