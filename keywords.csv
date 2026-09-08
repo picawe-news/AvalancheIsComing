@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0135229678216232
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
-'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.013352035726913934
+'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0133520357269139
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0133406000908282
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.009705165638745
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0078232966424892
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.006949832146115819
