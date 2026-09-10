@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0136560927265326
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
-'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0135229678216232
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0133520357269139
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0133406000908282
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0122473338643597
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0121063157572523
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
+'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.01149452264837972
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
