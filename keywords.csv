@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0165374499646206
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0140984660816269
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.01405683246992751
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0136560927265326
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
