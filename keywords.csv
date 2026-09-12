@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.1121874325448067
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0837497505586211
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.05636706205006818
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.05286263274255788
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0434637765961508
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0429498777996629
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0325973002258219
