@@ -31,10 +31,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
-'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0185009608137186
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
+'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.01572581669166081
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
-'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.010542624352445506
+'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0105426243524455
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0102414065138042
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0102079378650663
