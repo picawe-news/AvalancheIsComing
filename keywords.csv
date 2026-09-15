@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.1368036165079284
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.1121874325448067
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0837497505586211
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.07118728797482794
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0542896532314981
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0528626327425578
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0191374608152709
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
-'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.01713965402495701
+'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.017139654024957
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0153562035385761
