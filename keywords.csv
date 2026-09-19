@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0369442101067281
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0278577201919486
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.027037645399558
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0269224868294233
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0262259751342599
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0244523916214083
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0241545888362649
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0241256016175603
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.02382907716315631
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0231204291591657
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0210178760440944
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
-'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.00924939862816918
+'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0092493986281691
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0083047926134542
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
