@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0221198190914061
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0210178760440944
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.020404730588682855
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0204047305886828
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0187500887624076
@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0137431612479966
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0133406000908282
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0127968362821468
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0116076788175527
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.01148952507720397
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0113492303678768
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
