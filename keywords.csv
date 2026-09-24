@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0130527730077896
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0127968362821468
-'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0127180865204105
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0119836961693828
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
+'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.010810373542348924
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0107099675961351
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0105426243524455
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0092493986281691
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
-'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.00870519553673357
+'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0083047926134542
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0069498321461158
