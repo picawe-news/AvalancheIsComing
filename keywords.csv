@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0244523916214083
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0241545888362649
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0241256016175603
-'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0235780998959281
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0231204291591657
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
+'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.021541534911538884
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0210178760440944
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0204047305886828
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.0122756981530095
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0119836961693828
-'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.011681687060797108
+'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0116816870607971
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0116076788175527
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
