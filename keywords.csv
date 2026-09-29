@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0187500887624076
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
-'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.01749403600038038
+'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.017139654024957
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0162668416929802
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0140568324699275
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.0135578962246377
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0135110639769296
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0130527730077896
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.012982197724805
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0127968362821468
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0114895250772039
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.01148440438039016
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0113492303678768
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
