@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0988406129269782
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0955093326630857
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0711872879748279
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.06050919477860371
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0467462652467733
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0114895250772039
-'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.01148440438039016
+'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0114844043803901
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0113492303678768
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
