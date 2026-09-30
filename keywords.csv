@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0988406129269782
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0955093326630857
-'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.06050919477860371
+'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0605091947786037
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0467462652467733
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
@@ -69,9 +69,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0092493986281691
-'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0091034724567148
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0088691919155493
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0083047926134542
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
+'Mischlawine',de,Hazard,#4287f5,#027678,1,0.007737951588207579
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0063574023241984
