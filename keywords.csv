@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0114844043803901
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0113492303678768
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.01109485705662116
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0110948570566211
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0108103735423489
@@ -74,4 +74,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0083047926134542
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0077379515882075
-'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0063574023241984
+'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.005703821975568639
