@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0988406129269782
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0985269492930317
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0811829327636228
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.06900549284907938
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0605091947786037
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0114895250772039
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0114844043803901
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0113492303678768
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.011334898066084249
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0111975365547797
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0110948570566211
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
