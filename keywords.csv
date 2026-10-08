@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0187500887624076
-'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0182728940320312
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0178651946374802
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0162668416929802
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
+'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.015531959927226517
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0149156125239998
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
