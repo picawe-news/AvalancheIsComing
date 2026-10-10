@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0250279202847681
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0244535201001024
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0244523916214083
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0241545888362649
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0231204291591657
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0230341288050098
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0215415349115388
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.020784532878197055
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0206567763749262
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
