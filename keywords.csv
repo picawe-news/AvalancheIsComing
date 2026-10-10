@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0840145209879314
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0605091947786037
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0586546689217174
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.04985646858345979
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0404844004597573
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0215415349115388
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.020784532878197055
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.020784532878197
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0206567763749262
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
