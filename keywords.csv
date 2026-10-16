@@ -33,12 +33,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0155319599272265
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.01518541544185817
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0151854154418581
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0140568324699275
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0138268154390331
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0127968362821468
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0126782706453998
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.011524211790942
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0110948570566211
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.010877310839824779
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0108103735423489
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0105543613473639
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0105426243524455
