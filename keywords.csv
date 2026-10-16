@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawine',de,Hazard,#4287f5,#022f78,1,0.1277811304847253
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
-'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.08374790689907693
+'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.0837479068990769
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0714123428397416
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0605091947786037
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0563403322080536
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0498564685834597
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.042377998295940744
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0404844004597573
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0314025785907188
