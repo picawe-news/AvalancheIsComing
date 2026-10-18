@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0102903683936644
-'Felslawine',de,Hazard,#4287f5,#026678,1,0.0102679810715627
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0101861417439753
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0099294340016775
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0096468458126952
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
+'Felslawine',de,Hazard,#4287f5,#026678,1,0.009477858910828293
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0092493986281691
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
