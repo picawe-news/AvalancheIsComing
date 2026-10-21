@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,2,0.0450837478311741
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0438561050464562
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0360212985515496
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0347117703907937
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.030618103768817156
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0266921918021109
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
@@ -72,6 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.0083047926134542
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Langfristige Prävention Lawinen',de,Adaptation,#157a2c,#5edc6c,1,0.0075388131282169
-'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.007375235107510355
+'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0073752351075103
 'Mischlawine',de,Hazard,#4287f5,#027678,1,0.0065772588499763
 'Frühwarnsystem Lawinen',de,Adaptation,#157a2c,#58d567,1,0.0057038219755686
