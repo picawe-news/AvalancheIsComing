@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0206567763749262
 'Notfallausrüstung Skitour',de,Mitigation,#9e3215,#d65a18,1,0.020141421412916
 'Regen auf Schneedecke',de,Causes,#a89216,#fff4e0,1,0.0197092756367186
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.019652364785290845
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0196523647852908
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0195790094842583
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0195346988011806
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0110948570566211
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0110948570566211
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0108773108398247
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0096468458126952
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.009430628498127935
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
