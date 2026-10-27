@@ -45,13 +45,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0108859964753104
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0108773108398247
-'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0105426243524455
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0102903683936644
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0101861417439753
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.010156061459522555
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0101560614595225
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0099294340016775
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0098665269949197
@@ -62,11 +61,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0096468458126952
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
-'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0094306284981279
+'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
+'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.008961230699578675
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0078619888339437
