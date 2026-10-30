@@ -27,12 +27,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0187500887624076
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0182728940320312
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0176668529464674
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.017139654024957
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0151854154418581
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.01501682500449729
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
-'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.008386547945681744
+'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0083865479456817
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0078619888339437
 'Ausbildung Lawinensicherheit',de,Adaptation,#157a2c,#46c058,1,0.0073752351075103
