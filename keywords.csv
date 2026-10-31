@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0347117703907937
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.0266921918021109
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.022688363031794265
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0222715949729703
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0212737322420528
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0151854154418581
-'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.01501682500449729
+'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0150168250044972
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
