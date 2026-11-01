@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0383213806564979
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0372776892894877
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.029655019832174643
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0296550198321746
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
-'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0108773108398247
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
@@ -60,9 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0094306284981279
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0092530970040138
+'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.009245714213850995
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
