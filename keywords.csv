@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
-'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.022688363031794265
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0222715949729703
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0212737322420528
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0196523647852908
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0195790094842583
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0195346988011806
+'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.01928510857702507
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0190603796748079
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0187500887624076
