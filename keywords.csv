@@ -34,10 +34,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0151854154418581
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0150168250044972
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
-'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0141112076131005
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0126782706453998
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
+'Grundlawine',de,Hazard,#4287f5,#024678,1,0.011994526471135424
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0117527931231781
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.011524211790942
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0087468131346147
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
-'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.008632652240594126
+'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0083865479456817
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0078619888339437
