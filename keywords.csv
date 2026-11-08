@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0514328155618131
 'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0480392973768455
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
-'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.035423458558023216
+'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
 'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0296550198321746
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
@@ -31,10 +31,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0155319599272265
-'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0151854154418581
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0150168250044972
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
+'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.012907603125579384
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0126782706453998
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0119945264711354
