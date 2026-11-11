@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0296550198321746
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.02535678185734841
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0087468131346147
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
-'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.008590033901425874
+'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0078619888339437
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
