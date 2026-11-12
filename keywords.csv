@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.02535678185734841
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0253567818573484
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0117527931231781
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.011524211790942
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0114945226483797
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0101861417439753
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.009770344251122746
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0097660963156233
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0097617437233315
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
