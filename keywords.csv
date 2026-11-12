@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0253567818573484
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
 'Erwärmung Lawinen',de,Causes,#a89216,#d1bb5e,1,0.0227969149694156
 'Risikomanagement Lawinen',de,Adaptation,#157a2c,#22963a,1,0.0222920788641209
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0222715949729703
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.021703279578746137
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0212737322420528
 'Lawine Klimawandel',de,Causes,#a89216,#d8c379,1,0.0208314305108251
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.020785492085087
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0101861417439753
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
-'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.009770344251122746
+'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0097703442511227
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0097660963156233
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0097617437233315
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
