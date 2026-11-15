@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0190603796748079
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0180826724057448
-'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0175582599186872
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.017139654024957
 'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0167045100674971
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
 'Monitoring Lawinenaktivität',de,Adaptation,#157a2c,#52ce62,1,0.0155319599272265
 'Lawinenlagebericht',de,Mitigation,#9e3215,#d63e18,1,0.0150168250044972
+'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.014924520930884118
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0129076031255793
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0087468131346147
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
-'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379006
+'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
