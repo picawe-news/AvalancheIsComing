@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenopfer',de,Impacts,#4287f5,#638ed1,1,0.0175582599186872
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
 'Lawinengefahr für Siedlungen',de,Impacts,#4287f5,#6399d6,1,0.017139654024957
-'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.01670451006749718
+'Rettungseinsatz Lawine',de,Impacts,#4287f5,#639fd8,1,0.0167045100674971
 'Lawinenkegel',de,Hazard,#4287f5,#02a678,1,0.0159375754480464
 'Anrissgebiet Lawine',de,Causes,#a89216,#d8c374,1,0.0159093739077921
 'Erfroren Lawine',de,Impacts,#4287f5,#638ed4,1,0.0157258166916608
@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
-'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.0101861417439753
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0097703442511227
@@ -56,8 +55,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0094306284981279
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0094306284981279
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0092530970040138
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0092457142138509
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
 'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0087468131346147
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
+'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379006
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
