@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0514328155618131
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.03483590510477081
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0348359051047708
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
@@ -35,13 +35,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brettlawine',de,Hazard,#4287f5,#028678,1,0.0141286337232752
 'Lawinenauslösung durch Mensch',de,Causes,#a89216,#f3e4c4,1,0.0132021659381425
 'Lawinenverschüttetensuchgerät',de,Mitigation,#9e3215,#d64118,1,0.0129076031255793
-'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0126782706453998
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0120627534816496
 'Grundlawine',de,Hazard,#4287f5,#024678,1,0.0119945264711354
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0117527931231781
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.011524211790942
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
+'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.01077653004858983
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
