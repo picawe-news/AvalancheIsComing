@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung',de,Mitigation,#9e3215,#d66118,1,0.0978919022544914
 'Suchaktion Lawine',de,Impacts,#4287f5,#63a2d9,1,0.060507862734583
 'Schneebrettlawine',de,Hazard,#4287f5,#024f78,1,0.0514328155618131
-'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.0409834177703186
 'Schneemassen',de,Impacts,#4287f5,#638ed7,1,0.0365073961297134
 'Temperaturanstieg',de,Causes,#a89216,#ccb250,1,0.0354234585580232
+'Verschüttete Lawine',de,Impacts,#4287f5,#638ed5,1,0.03483590510477081
 'Todesopfer Lawinenunglück',de,Impacts,#4287f5,#63a5da,1,0.0316860358960645
 'Schneefallgrenze',de,Causes,#a89216,#eddcb1,1,0.0280522385856749
 'Skifahrer Lawine',de,Causes,#a89216,#c7b34a,1,0.0247999131929346
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenkatastrophe',de,Impacts,#4287f5,#639cd7,1,0.0195790094842583
 'Schutzwald Lawinen',de,Mitigation,#9e3215,#d64a18,1,0.0195346988011806
 'Klimawandel Lawinengefahr',de,Adaptation,#157a2c,#4cc75d,1,0.019285108577025
-'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.019080870727024756
+'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0190808707270247
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0190603796748079
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0180826724057448
