@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zerstörung durch Lawinen',de,Impacts,#4287f5,#6390d3,1,0.0190808707270247
 'Sonneneinstrahlung Schnee',de,Causes,#a89216,#d3bb63,1,0.0190603796748079
 'Bauen im Lawinengebiet',de,Adaptation,#157a2c,#2ea444,1,0.0188018462276951
-'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.018747817641934183
+'Hangneigung',de,Causes,#a89216,#e6d59e,1,0.0187478176419341
 'Lawinenschaufel',de,Mitigation,#9e3215,#d64418,1,0.0180826724057448
 'Lawinensuchhunde',de,Mitigation,#9e3215,#d64718,1,0.0176676682723239
 'Neuschnee Lawinen',de,Causes,#a89216,#c4b03b,1,0.0174940360003803
@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
 'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0094306284981279
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0092530970040138
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0092457142138509
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.008016034223408715
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.007059073721436
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0066826905088521
