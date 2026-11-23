@@ -39,13 +39,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windverfrachtung Schnee',de,Causes,#a89216,#c6ad3d,1,0.0117527931231781
 'Eislawine',de,Hazard,#4287f5,#025678,1,0.011524211790942
 'Nassschneelawine',de,Hazard,#4287f5,#026f78,1,0.0114945226483797
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0113348980660842
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0107765300485898
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.00978467835617157
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0097703442511227
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0097660963156233
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0097617437233315
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
-'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.008016034223408715
+'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0080160342234087
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.007059073721436
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0066826905088521
