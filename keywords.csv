@@ -59,15 +59,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0087468131346147
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0087153393904917
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.008301181868279805
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0083011818682798
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0080160342234087
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.007434791164422495
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.007059073721436
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0066826905088521
