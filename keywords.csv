@@ -45,9 +45,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
-'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.00978467835617157
+'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0097846783561715
 'Auslaufgebiet Lawine',de,Hazard,#4287f5,#025f78,1,0.0097703442511227
-'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0097660963156233
 'Lawinenpiepser',de,Mitigation,#9e3215,#d64b18,1,0.0097617437233315
 'Sachschäden Lawinen',de,Impacts,#4287f5,#63a8db,1,0.0097309303779018
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0096468458126952
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379
 'Lawinenwarnsystem',de,Mitigation,#9e3215,#d63a18,1,0.0086326522405941
 'Schneerutsch',de,Hazard,#4287f5,#029678,1,0.0085900339014258
+'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.008301181868279805
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0080160342234087
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
