@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwimmschnee Schicht',de,Causes,#a89216,#e0cd8b,1,0.0107765300485898
 'Lawinenanriss',de,Hazard,#4287f5,#02b678,1,0.010434343430058
 'Staublawine',de,Hazard,#4287f5,#023678,1,0.0104102337847057
-'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.0103061220582856
 'Nachhaltige Schutzmaßnahmen Lawinen',de,Adaptation,#157a2c,#64e371,1,0.0100405946213767
 'Gleitschneelawine',de,Hazard,#4287f5,#027f78,1,0.0098184356230213
 'Vibrationen im Schnee',de,Causes,#a89216,#f9eccf,1,0.0097846783561715
@@ -52,13 +51,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katastrophenvorsorge Lawinen',de,Adaptation,#157a2c,#6aea76,1,0.0096468458126952
 'Neuschneeschicht Instabilität',de,Causes,#a89216,#d9c577,1,0.0095301977281233
 'Felslawine',de,Hazard,#4287f5,#026678,1,0.0094778589108282
-'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Verkehrsunterbrechung Lawine',de,Impacts,#4287f5,#6396d5,1,0.0094306284981279
+'Lawinenanpassung',de,Adaptation,#157a2c,#1b8f35,1,0.0094306284981279
 'Resilienz gegenüber Lawinen',de,Adaptation,#157a2c,#70f17b,1,0.0092530970040138
 'Schutzkonzepte Lawinen',de,Adaptation,#157a2c,#3ab24e,1,0.0092457142138509
 'Lawinenverbauung Stahl',de,Mitigation,#9e3215,#d64618,1,0.0091888175109965
 'Lawinenübung',de,Mitigation,#9e3215,#d65618,1,0.0089712071452593
 'Bewusstseinsbildung Lawinen',de,Adaptation,#157a2c,#40b953,1,0.0089612306995786
+'Lawinensprengung',de,Mitigation,#9e3215,#d63518,1,0.008760203749542759
 'Sicherheitsausrüstung Lawine',de,Mitigation,#9e3215,#d65218,1,0.0087153393904917
 'Anpassung an Lawinengefahr',de,Adaptation,#157a2c,#289d3f,1,0.0087051955367335
 'Lawinenbahn',de,Hazard,#4287f5,#02c678,1,0.008658220482379
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raumplanung Lawinen',de,Adaptation,#157a2c,#34ab49,1,0.0083011818682798
 'Lawinenrucksack',de,Mitigation,#9e3215,#d64f18,1,0.0082493907929332
 'Schneebretterkennungssystem',de,Mitigation,#9e3215,#d64218,1,0.0080160342234087
-'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.007434791164422495
+'Lawinenschäden',de,Impacts,#4287f5,#6393d4,1,0.0074347911644224
 'Sturzbahn Lawine',de,Causes,#a89216,#e2cb89,1,0.0071285657538294
 'Lockerschneelawine',de,Hazard,#4287f5,#023f78,1,0.007059073721436
 'Schneenetze',de,Mitigation,#9e3215,#d64e18,1,0.0066826905088521
